@@ -1,3 +1,7 @@
+---
+title: "Brand Operating System"
+---
+
 # BOS — Brand Operating System
 
 > Pagina madre della sezione operativa. Da scrivere.

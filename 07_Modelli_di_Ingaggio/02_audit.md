@@ -1,3 +1,7 @@
+---
+title: "Specula Audit"
+---
+
 # Specula Audit
 
 > Fonte: `specula-bos/docs/06_system-lifecycle.md`

@@ -1,3 +1,7 @@
+---
+title: "06 · Governance"
+---
+
 # Layer 06 · GOVERNANCE — Brand Radar + Guardian
 
 > Da scrivere. Fonte: `specula-bos/docs/03_seven-layers.md`

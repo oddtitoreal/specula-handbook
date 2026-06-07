@@ -1,3 +1,7 @@
+---
+title: "Specula Guardian"
+---
+
 # Specula Guardian
 
 > Fonte: `specula-bos/docs/06_system-lifecycle.md`

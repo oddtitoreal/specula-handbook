@@ -1,3 +1,7 @@
+---
+title: "Onboarding dell'Agent"
+---
+
 # Workshop · Onboarding dell'Agent
 
 **Layer:** 07 · INTERFACE  

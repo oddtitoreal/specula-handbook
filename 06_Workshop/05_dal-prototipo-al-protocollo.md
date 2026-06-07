@@ -1,3 +1,7 @@
+---
+title: "Dal Prototipo al Protocollo"
+---
+
 # Workshop · Dal Prototipo al Protocollo
 
 **Layer:** 05 · STRATEGY  

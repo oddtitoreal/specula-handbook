@@ -1,3 +1,7 @@
+---
+title: "Circolo di Sintesi"
+---
+
 # Circolo di Sintesi dell'Identità
 
 > Fonte: `specula-bos/docs/04_circolo-di-sintesi.md`

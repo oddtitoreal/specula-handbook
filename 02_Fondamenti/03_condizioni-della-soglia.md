@@ -1,3 +1,7 @@
+---
+title: "Le tre condizioni della soglia"
+---
+
 # Le tre condizioni della soglia
 
 > *→ Box con citazione dal libro — da inserire.*

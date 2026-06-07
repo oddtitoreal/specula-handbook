@@ -1,3 +1,7 @@
+---
+title: "03 · Identity"
+---
+
 # Layer 03 · IDENTITY — Brand Core
 
 > Da scrivere. Fonte: `specula-bos/docs/03_seven-layers.md`

@@ -1,3 +1,7 @@
+---
+title: "Archeologia del Brand"
+---
+
 # Workshop · Archeologia del Brand
 
 **Layer:** 03 · IDENTITY  

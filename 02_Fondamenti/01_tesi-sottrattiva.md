@@ -1,3 +1,7 @@
+---
+title: "La tesi sottrattiva"
+---
+
 # La tesi sottrattiva
 
 > *→ Il "perché" di questa tesi è nel libro: Parte Prima, capitolo 1.*

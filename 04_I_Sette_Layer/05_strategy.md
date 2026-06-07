@@ -1,3 +1,7 @@
+---
+title: "05 · Strategy"
+---
+
 # Layer 05 · STRATEGY — Strategic Protocol
 
 > Da scrivere. Fonte: `specula-bos/docs/03_seven-layers.md`

@@ -1,3 +1,7 @@
+---
+title: "01 · World"
+---
+
 # Layer 01 · WORLD — Signal Scan
 
 > Da scrivere. Fonte: `specula-bos/docs/03_seven-layers.md`

@@ -1,3 +1,7 @@
+---
+title: "Ethical Frame"
+---
+
 # Ethical Frame — Struttura trasversale
 
 > Da scrivere. Fonte: `specula-bos/docs/07_open-ethical-layer.md`

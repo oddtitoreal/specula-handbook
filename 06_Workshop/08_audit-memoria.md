@@ -1,3 +1,7 @@
+---
+title: "Audit della Memoria"
+---
+
 # Workshop · Audit della Memoria
 
 **Layer:** Memoria — trasversale  

@@ -1,3 +1,7 @@
+---
+title: "Refusal Register"
+---
+
 # Refusal Register
 
 > Da scrivere. Fonte: `specula-bos/docs/03_seven-layers.md` (Layer 04 · EXPLORATION)

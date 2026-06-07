@@ -1,3 +1,7 @@
+---
+title: "02 · Futures"
+---
+
 # Layer 02 · FUTURES — Scenario Engine
 
 > Da scrivere. Fonte: `specula-bos/docs/03_seven-layers.md`

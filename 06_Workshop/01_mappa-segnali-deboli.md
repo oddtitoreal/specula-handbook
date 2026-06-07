@@ -1,3 +1,7 @@
+---
+title: "Mappa Segnali Deboli"
+---
+
 # Workshop · Mappa dei Segnali Deboli
 
 **Layer:** 01 · WORLD  

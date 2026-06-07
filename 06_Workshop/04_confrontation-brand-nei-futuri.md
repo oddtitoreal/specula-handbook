@@ -1,3 +1,7 @@
+---
+title: "Confrontation: Il Brand nei Futuri"
+---
+
 # Workshop · Confrontation: Il Brand nei Futuri
 
 **Layer:** 04 · EXPLORATION  

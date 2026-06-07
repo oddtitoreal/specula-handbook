@@ -1,3 +1,7 @@
+---
+title: "08 · Agent Experience"
+---
+
 # Layer 08 · AGENT EXPERIENCE
 
 > Fonte: `specula-bos/docs/09_agent-experience.md`

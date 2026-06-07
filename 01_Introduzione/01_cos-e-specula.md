@@ -1,3 +1,7 @@
+---
+title: "Cos'è Specula"
+---
+
 # Cos'è Specula
 
 > *[Citazione corta dal libro — da inserire]*

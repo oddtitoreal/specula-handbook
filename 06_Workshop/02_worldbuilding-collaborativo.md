@@ -1,3 +1,7 @@
+---
+title: "Worldbuilding Collaborativo"
+---
+
 # Workshop · Worldbuilding Collaborativo
 
 **Layer:** 02 · FUTURES  

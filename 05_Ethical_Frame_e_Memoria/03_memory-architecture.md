@@ -1,3 +1,7 @@
+---
+title: "Memory Architecture"
+---
+
 # Memory Architecture — I 5 domini
 
 > Da scrivere. Fonte: `specula-bos/docs/05_memory-architecture.md`

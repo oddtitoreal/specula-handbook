@@ -1,3 +1,7 @@
+---
+title: "07 · Interface"
+---
+
 # Layer 07 · INTERFACE — Specula Agent
 
 > Da scrivere. Fonte: `specula-bos/docs/03_seven-layers.md` + `docs/09_agent-experience.md`

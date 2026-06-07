@@ -1,3 +1,7 @@
+---
+title: "Brand Governance Playbook"
+---
+
 # Brand Governance Playbook
 
 > Fonte: `specula-bos/docs/07_open-ethical-layer.md`

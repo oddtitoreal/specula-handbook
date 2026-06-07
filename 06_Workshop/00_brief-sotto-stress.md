@@ -1,3 +1,7 @@
+---
+title: "Brief sotto stress"
+---
+
 # Workshop · Il Brief Sotto Stress
 
 **Layer:** Principio — entra prima che il progetto prenda forma  

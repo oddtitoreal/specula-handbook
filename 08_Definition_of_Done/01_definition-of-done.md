@@ -1,3 +1,7 @@
+---
+title: "Definition of Done"
+---
+
 # Definition of Done
 
 > Fonte: `specula-bos/docs/08_definition-of-done.md`
