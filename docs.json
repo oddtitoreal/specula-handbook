@@ -7,95 +7,89 @@
     "light": "#f5f5f0",
     "dark": "#1a1a1a"
   },
-  "favicon": "/favicon.svg",
   "seo": {
     "metatags": {
-      "canonical": "https://handbook.specula.design"
+      "canonical": "https://speculafuturecrafting.mintlify.app"
     }
   },
   "navigation": [
     {
-      "tab": "Manuale",
-      "groups": [
-        {
-          "group": "Introduzione",
-          "pages": [
-            "01_Introduzione/01_cos-e-specula"
-          ]
-        },
-        {
-          "group": "Fondamenti",
-          "pages": [
-            "02_Fondamenti/01_tesi-sottrattiva",
-            "02_Fondamenti/02_movimento-in-quattro-tappe",
-            "02_Fondamenti/03_condizioni-della-soglia"
-          ]
-        },
-        {
-          "group": "Brand Operating System",
-          "pages": [
-            "03_BOS/01_overview"
-          ]
-        },
-        {
-          "group": "I Sette Layer",
-          "pages": [
-            "04_I_Sette_Layer/01_world",
-            "04_I_Sette_Layer/02_futures",
-            "04_I_Sette_Layer/03_identity",
-            "04_I_Sette_Layer/04_exploration",
-            "04_I_Sette_Layer/05_strategy",
-            "04_I_Sette_Layer/06_governance",
-            "04_I_Sette_Layer/07_interface",
-            "04_I_Sette_Layer/08_agent-experience"
-          ]
-        },
-        {
-          "group": "Ethical Frame e Memoria",
-          "pages": [
-            "05_Ethical_Frame_e_Memoria/01_ethical-frame",
-            "05_Ethical_Frame_e_Memoria/02_refusal-register",
-            "05_Ethical_Frame_e_Memoria/03_memory-architecture",
-            "05_Ethical_Frame_e_Memoria/04_circolo-di-sintesi",
-            "05_Ethical_Frame_e_Memoria/05_brand-governance-playbook"
-          ]
-        },
-        {
-          "group": "Workshop",
-          "pages": [
-            "06_Workshop/00_brief-sotto-stress",
-            "06_Workshop/01_mappa-segnali-deboli",
-            "06_Workshop/02_worldbuilding-collaborativo",
-            "06_Workshop/03_archeologia-brand",
-            "06_Workshop/04_confrontation-brand-nei-futuri",
-            "06_Workshop/05_dal-prototipo-al-protocollo",
-            "06_Workshop/06_calibrazione-radar",
-            "06_Workshop/07_onboarding-agent",
-            "06_Workshop/08_audit-memoria",
-            "06_Workshop/09_matrice-comportamentale"
-          ]
-        },
-        {
-          "group": "Modelli di Ingaggio",
-          "pages": [
-            "07_Modelli_di_Ingaggio/01_full-journey",
-            "07_Modelli_di_Ingaggio/02_audit",
-            "07_Modelli_di_Ingaggio/03_brand-nuovo",
-            "07_Modelli_di_Ingaggio/04_guardian-loop"
-          ]
-        },
-        {
-          "group": "Definition of Done",
-          "pages": [
-            "08_Definition_of_Done/01_definition-of-done"
-          ]
-        },
-        {
-          "group": "Risorse",
-          "pages": [
-            "09_Risorse/01_risorse"
-          ]
-        }
+      "group": "Introduzione",
+      "pages": [
+        "01_Introduzione/01_cos-e-specula"
+      ]
+    },
+    {
+      "group": "Fondamenti",
+      "pages": [
+        "02_Fondamenti/01_tesi-sottrattiva",
+        "02_Fondamenti/02_movimento-in-quattro-tappe",
+        "02_Fondamenti/03_condizioni-della-soglia"
+      ]
+    },
+    {
+      "group": "Brand Operating System",
+      "pages": [
+        "03_BOS/01_overview"
+      ]
+    },
+    {
+      "group": "I Sette Layer",
+      "pages": [
+        "04_I_Sette_Layer/01_world",
+        "04_I_Sette_Layer/02_futures",
+        "04_I_Sette_Layer/03_identity",
+        "04_I_Sette_Layer/04_exploration",
+        "04_I_Sette_Layer/05_strategy",
+        "04_I_Sette_Layer/06_governance",
+        "04_I_Sette_Layer/07_interface",
+        "04_I_Sette_Layer/08_agent-experience"
+      ]
+    },
+    {
+      "group": "Ethical Frame e Memoria",
+      "pages": [
+        "05_Ethical_Frame_e_Memoria/01_ethical-frame",
+        "05_Ethical_Frame_e_Memoria/02_refusal-register",
+        "05_Ethical_Frame_e_Memoria/03_memory-architecture",
+        "05_Ethical_Frame_e_Memoria/04_circolo-di-sintesi",
+        "05_Ethical_Frame_e_Memoria/05_brand-governance-playbook"
+      ]
+    },
+    {
+      "group": "Workshop",
+      "pages": [
+        "06_Workshop/00_brief-sotto-stress",
+        "06_Workshop/01_mappa-segnali-deboli",
+        "06_Workshop/02_worldbuilding-collaborativo",
+        "06_Workshop/03_archeologia-brand",
+        "06_Workshop/04_confrontation-brand-nei-futuri",
+        "06_Workshop/05_dal-prototipo-al-protocollo",
+        "06_Workshop/06_calibrazione-radar",
+        "06_Workshop/07_onboarding-agent",
+        "06_Workshop/08_audit-memoria",
+        "06_Workshop/09_matrice-comportamentale"
+      ]
+    },
+    {
+      "group": "Modelli di Ingaggio",
+      "pages": [
+        "07_Modelli_di_Ingaggio/01_full-journey",
+        "07_Modelli_di_Ingaggio/02_audit",
+        "07_Modelli_di_Ingaggio/03_brand-nuovo",
+        "07_Modelli_di_Ingaggio/04_guardian-loop"
+      ]
+    },
+    {
+      "group": "Definition of Done",
+      "pages": [
+        "08_Definition_of_Done/01_definition-of-done"
+      ]
+    },
+    {
+      "group": "Risorse",
+      "pages": [
+        "09_Risorse/01_risorse"
       ]
     }
   ]
