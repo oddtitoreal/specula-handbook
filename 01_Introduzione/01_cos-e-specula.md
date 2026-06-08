@@ -4,7 +4,8 @@ title: "Cos'è Specula"
 
 # Cos'è Specula
 
-> *[Citazione corta dal libro: da inserire]*
+> *"Il cambiamento vero non aggiunge qualcosa che manca. Rimuove quello che copre ciò che era già lì."*
+> — *Fantasticare il futuro*
 
 ---
 

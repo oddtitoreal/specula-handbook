@@ -4,7 +4,8 @@ title: "Le tre condizioni della soglia"
 
 # Le tre condizioni della soglia
 
-> *→ Box con citazione dal libro: da inserire.*
+> *"Il terreno deve essere pronto. Non nel senso che l'organizzazione deve aver raggiunto la perfezione. Nel senso che deve aver smesso di mentire a se stessa su chi è."*
+> — *Fantasticare il futuro*
 
 ---
 
