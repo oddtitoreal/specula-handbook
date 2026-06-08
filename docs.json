@@ -12,72 +12,74 @@
       "canonical": "https://speculafuturecrafting.mintlify.app"
     }
   },
-  "navigation": [
-    {
-      "group": "Introduzione",
-      "pages": [
-        "introduction",
-        "foundations/subtractive-thesis",
-        "foundations/four-stages",
-        "foundations/threshold-conditions"
-      ]
-    },
-    {
-      "group": "Brand Operating System",
-      "pages": [
-        "bos/overview",
-        "bos/01_world",
-        "bos/02_futures",
-        "bos/03_identity",
-        "bos/04_exploration",
-        "bos/05_strategy",
-        "bos/06_governance",
-        "bos/07_interface",
-        "bos/08_agent-experience",
-        "bos/ethical-frame",
-        "bos/memory-architecture",
-        "bos/circolo-di-sintesi"
-      ]
-    },
-    {
-      "group": "Modelli di Ingaggio",
-      "pages": [
-        "engagement/overview",
-        "engagement/full-journey",
-        "engagement/audit",
-        "engagement/brand-nuovo",
-        "engagement/guardian-loop"
-      ]
-    },
-    {
-      "group": "Workshop",
-      "pages": [
-        "workshops/overview",
-        "workshops/brief-sotto-stress",
-        "workshops/mappa-segnali-deboli",
-        "workshops/worldbuilding-collaborativo",
-        "workshops/archeologia-brand",
-        "workshops/confrontation-brand-nei-futuri",
-        "workshops/dal-prototipo-al-protocollo",
-        "workshops/calibrazione-radar",
-        "workshops/onboarding-agent",
-        "workshops/audit-memoria",
-        "workshops/matrice-comportamentale"
-      ]
-    },
-    {
-      "group": "Governance",
-      "pages": [
-        "governance/brand-governance-playbook",
-        "governance/refusal-register",
-        "governance/definition-of-done"
-      ]
-    },
-    {
-      "group": "Risorse",
-      "pages": [
-        "09_Risorse/01_risorse"
-      ]
-    }
-  ]
+  "navigation": {
+    "groups": [
+      {
+        "group": "Introduzione",
+        "pages": [
+          "introduction",
+          "foundations/subtractive-thesis",
+          "foundations/four-stages",
+          "foundations/threshold-conditions"
+        ]
+      },
+      {
+        "group": "Brand Operating System",
+        "pages": [
+          "bos/overview",
+          "bos/01_world",
+          "bos/02_futures",
+          "bos/03_identity",
+          "bos/04_exploration",
+          "bos/05_strategy",
+          "bos/06_governance",
+          "bos/07_interface",
+          "bos/08_agent-experience",
+          "bos/ethical-frame",
+          "bos/memory-architecture",
+          "bos/circolo-di-sintesi"
+        ]
+      },
+      {
+        "group": "Modelli di Ingaggio",
+        "pages": [
+          "engagement/overview",
+          "engagement/full-journey",
+          "engagement/audit",
+          "engagement/brand-nuovo",
+          "engagement/guardian-loop"
+        ]
+      },
+      {
+        "group": "Workshop",
+        "pages": [
+          "workshops/overview",
+          "workshops/brief-sotto-stress",
+          "workshops/mappa-segnali-deboli",
+          "workshops/worldbuilding-collaborativo",
+          "workshops/archeologia-brand",
+          "workshops/confrontation-brand-nei-futuri",
+          "workshops/dal-prototipo-al-protocollo",
+          "workshops/calibrazione-radar",
+          "workshops/onboarding-agent",
+          "workshops/audit-memoria",
+          "workshops/matrice-comportamentale"
+        ]
+      },
+      {
+        "group": "Governance",
+        "pages": [
+          "governance/brand-governance-playbook",
+          "governance/refusal-register",
+          "governance/definition-of-done"
+        ]
+      },
+      {
+        "group": "Risorse",
+        "pages": [
+          "09_Risorse/01_risorse"
+        ]
+      }
+    ]
+  }
 }
