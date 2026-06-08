@@ -2,88 +2,80 @@
 title: "Brand Operating System"
 ---
 
-# BOS — Brand Operating System
+# Brand Operating System
 
-> Pagina madre della sezione operativa. Da scrivere.
-
-**Fonte primaria:** [`specula-bos`](https://github.com/oddtitoreal/specula-bos) — repo pubblico con documentazione architettuale completa (v2.0).
-
----
-
-## La distinzione fondamentale
+> Fonte primaria: [`specula-bos`](https://github.com/oddtitoreal/specula-bos)
 
 Il BOS non è il metodo. È ciò che il metodo costruisce.
 
-> *I futuri non si predicono. Si abitano. Il brand che ha attraversato il BOS non sa cosa succederà: sa chi è abbastanza bene da poter rispondere a ciò che succede senza smettere di essere se stesso.*
+Specula è il processo — la sequenza di workshop, deliberazioni, output. Il Brand Operating System è il risultato: un sistema permanente che permette a un'organizzazione di restare riconoscibile a se stessa mentre il contesto cambia.
+
+La distinzione non è formale. Un metodo si esegue una volta. Un sistema opera nel tempo.
+
+---
 
 ## Architettura — I 7 layer
-
-Il BOS è strutturato in sette layer in sequenza:
 
 ```
 WORLD → FUTURES → IDENTITY → EXPLORATION → STRATEGY → GOVERNANCE → INTERFACE
 ```
 
-Ogni layer ha workshop dedicati (→ sezione 07, Specula in pratica).
+I sette layer non sono fasi di un progetto ma strati di un sistema. Ogni layer produce output che entrano nel layer successivo e restano nel sistema come memoria permanente.
 
-## Il principio e la promessa
+| Layer | Nome operativo | Funzione |
+|---|---|---|
+| 01 · WORLD | Signal Scan | Rilevamento segnali deboli e driver di cambiamento |
+| 02 · FUTURES | Scenario Engine | Costruzione di scenari divergenti a partire dai driver |
+| 03 · IDENTITY | Brand Core | Archeologia del DNA — cosa regge nei futuri, cosa collassa |
+| 04 · EXPLORATION | Speculative Prototyping | Il brand dentro i futuri — test etico e Refusal Register |
+| 05 · STRATEGY | Strategic Protocol | Principi decisionali robusti agli scenari |
+| 06 · GOVERNANCE | Brand Radar + Guardian | Monitoraggio continuo della coerenza identitaria |
+| 07 · INTERFACE | Specula Agent | Interlocutore strategico con accesso alla memoria del sistema |
 
-**VEDERE · SCEGLIERE · RESTARE**
+---
 
-La crisi del branding contemporaneo è una crisi di temporalità: i brand reagiscono al presente invece di abitare il futuro dal loro centro. Il BOS è l'architettura che rende possibile restare se stessi nel cambiamento.
+## Il principio operativo — VEDERE · SCEGLIERE · RESTARE
 
-## I tre componenti trasversali
+I sette layer si raggruppano in tre movimenti:
 
-Corrono attraverso tutti i 7 layer:
+**VEDERE** (Layer 01–02) — Costruire una mappa del contesto. Non per prevedere, ma per avere più futuri possibili a disposizione come strumenti di test. Un brand che conosce solo un futuro è fragile. Un brand che sa operare in tre è robusto.
 
-**Ethical Frame**
-- Immutable Values — ciò che non si negozia
-- Ethical Gate — il check prima di ogni avanzamento
-- Refusal Register — la memoria dei rifiuti (→ sezione 05)
+**SCEGLIERE** (Layer 03–05) — Mettere il brand sotto stress nei futuri e deliberare: cosa è immutabile, cosa è contingente. Questo produce il DNA, il Refusal Register, il Protocollo Strategico. Tre output che insieme rispondono alla domanda: chi sei quando il contesto cambia?
 
-**Circolo di Sintesi dell'Identità**
-Organo vivente di governance. Composizione, mandato, ritualità (→ sezione 06, Guardian).
+**RESTARE** (Layer 06–07) — Mantenere nel tempo ciò che è stato scelto. Il Brand Radar rileva la deriva. Lo Specula Agent porta la coerenza nelle decisioni quotidiane. Il Circolo di Sintesi garantisce che il sistema apprenda invece di calcificarsi.
 
-**Memory Architecture — 5 domini**
-- Scenario Memory
-- Brand Memory
-- Decision Memory
-- Refusal Memory (→ sezione 05)
-- Context Memory
+---
 
-## Cosa è aperto e cosa è proprietario
+## Componenti trasversali
 
-| Aperto (repo pubblico) | Proprietario |
-|---|---|
-| Architettura dei 7 layer | Configurazioni AI e librerie di prompt |
-| Ethical Frame | Librerie di scenari e protocolli di ricerca |
-| Circolo di Sintesi | Strumenti operativi di facilitazione |
-| Memory Architecture (struttura) | Memory Architecture (schemi JSON, implementazione) |
-| Workshop protocols | Case study su clienti |
-| Brand Governance Playbook (struttura) | |
-| Modelli di ingaggio | |
+Tre componenti attraversano tutti e sette i layer:
 
-## Modelli di ingaggio
+**Ethical Frame** — non uno strato aggiuntivo ma una condizione di funzionamento. Gli Immutable Values e l'Ethical Gate sono presenti in ogni workshop, in ogni deliberazione, in ogni output dell'Agent. Il Refusal Register documenta il confine.
 
-- **Audit** — diagnosi iniziale, Brand Archeology come primo passo
-- **Full Journey** — percorso completo attraverso i 7 layer
-- **Guardian** — mantenimento su brand consolidati
+**Memory Architecture** — cinque domini di memoria (Scenario, Brand, Decision, Refusal, Context) che crescono con ogni ciclo d'uso. Il sistema non si azzera: apprende.
 
-## Documenti di riferimento nel repo
+**Circolo di Sintesi dell'Identità** — l'organo umano che governa il sistema per tutta la sua vita operativa. Delibera, custodisce, decide la Re-Speculazione quando i segnali lo richiedono.
 
-```
-docs/
-├── 00_index.md               — Mappa della documentazione
-├── 01_diagnosis.md           — La crisi del branding come crisi di temporalità
-├── 02_principle-promise.md   — Il principio e la promessa
-├── 03_seven-layers.md        — L'architettura dei 7 layer
-├── 04_circolo-di-sintesi.md  — L'organo vivente di governance
-├── 05_memory-architecture.md — La memoria come strato cognitivo
-├── 06_system-lifecycle.md    — La vita del sistema nel tempo
-├── 07_open-ethical-layer.md  — Il layer etico aperto
-└── 08_definition-of-done.md  — Il contratto operativo
-```
+---
 
-## Nota per il manuale
+## Cosa è aperto, cosa è proprietario
 
-Il manuale non ripete il repo. Lo sintetizza e lo rende navigabile a chi non è tecnico. Le sezioni 04 (Brand Archeology), 05 (Refusal Memory) e 06 (Guardian) sono i tre punti di ingresso operativo nei layer del BOS — non coprono l'intera architettura, ma sono le porte che il lettore del manuale può aprire.
+| Componente | Stato | Repository |
+|---|---|---|
+| Architettura BOS (7 layer) | Open source | `specula-bos` |
+| Workshop protocols | Open source | `specula-bos` |
+| Ethical Frame | Open source | `specula-bos` |
+| Memory Architecture | Open source | `specula-bos` |
+| Runtime specification (schemi JSON) | Open source | `specula-framework` |
+| Specula Agent (implementazione) | Proprietario | — |
+| Brand Radar (implementazione) | Proprietario | — |
+
+L'architettura è aperta. Le implementazioni specifiche che Specula porta nei percorsi client sono proprietarie.
+
+---
+
+## Come leggere questa sezione
+
+I sette layer sono documentati nelle pagine seguenti. Ogni pagina descrive cosa fa il layer, come funziona la collaborazione umano-AI, gli output e il workshop che li produce.
+
+Per capire come i layer si collegano in un percorso completo, vedi i [Modelli di Ingaggio](../07_Modelli_di_Ingaggio/01_full-journey.md).

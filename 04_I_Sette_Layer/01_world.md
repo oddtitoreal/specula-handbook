@@ -4,13 +4,28 @@ title: "01 · World"
 
 # Layer 01 · WORLD — Signal Scan
 
-> Da scrivere. Fonte: `specula-bos/docs/03_seven-layers.md`
+> Fonte: `specula-bos/docs/03_seven-layers.md`
 
-Il layer di apertura non cerca conferme: cerca anomalie. Segnali deboli, tensioni culturali sotterranee, discontinuità emergenti in domini apparentemente non correlati. L'AI lavora come sistema di rilevamento di pattern su scala globale. Il team umano porta l'interpretazione culturale che nessun modello può sostituire.
+Il layer di apertura non cerca conferme. Cerca anomalie.
 
-**Output**
-- Mappa dei Segnali Deboli
-- Cluster di driver
-- Catene di implicazione
+La maggior parte delle organizzazioni monitora il proprio settore di riferimento. Il Layer 01 parte dall'ipotesi opposta: i segnali più rilevanti per un'identità arrivano quasi sempre da domini periferici — cambiamenti culturali, tecnologici, politici, ambientali che non sembrano riguardarti finché non ti hanno già trasformato.
 
-**Workshop:** [Mappa Segnali Deboli](../06_Workshop/01_mappa-segnali-deboli.md) — 3 ore
+Il lavoro è sistematico, non intuitivo. Si definiscono i domini da scandagliare, si raccolgono segnali deboli in forma strutturata, si costruiscono catene di implicazione. Non si cerca la tendenza dominante — si cerca la discontinuità emergente.
+
+## Collaborazione umano-AI
+
+L'AI opera come sistema di rilevamento di pattern su scala che nessun team umano potrebbe coprire — notizie, ricerche, conversazioni pubbliche, dati culturali. Identifica cluster, anomalie, correlazioni tra domini distanti.
+
+Il team umano porta l'interpretazione che l'AI non può dare: contesto locale, memoria organizzativa, sensibilità culturale. Un segnale è debole o forte rispetto a qualcosa — e quel "rispetto a qualcosa" richiede giudizio umano.
+
+## Output
+
+| Output | Descrizione |
+|---|---|
+| **Mappa dei Segnali Deboli** | Segnali organizzati per dominio e intensità — non classificati per certezza ma per potenziale di impatto |
+| **Cluster di driver** | Raggruppamenti tematici che rivelano le forze strutturali sotto i segnali singoli |
+| **Catene di implicazione** | Per ogni cluster: se questa forza si amplifica, cosa cambia? Per chi? In quale sequenza? |
+
+Gli output del Layer 01 entrano direttamente nel Layer 02 come materia prima per la costruzione degli scenari. Un segnale non processato in scenari è osservazione senza conseguenze.
+
+→ **Workshop:** [Mappa Segnali Deboli](../06_Workshop/01_mappa-segnali-deboli.md) — 3 ore
