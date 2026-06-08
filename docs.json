@@ -3,9 +3,9 @@
   "name": "Specula Handbook",
   "theme": "mint",
   "colors": {
-    "primary": "#1a1a1a",
-    "light": "#f5f5f0",
-    "dark": "#1a1a1a"
+    "primary": "#001CAB",
+    "light": "#fdfdfd",
+    "dark": "#001CAB"
   },
   "seo": {
     "metatags": {
@@ -81,5 +81,23 @@
         ]
       }
     ]
+  },
+  "logo": {
+    "light": "/images/specula-future-crafting-dark.png",
+    "dark": "/images/specula-future-crafting-light.png"
+  },
+  "favicon": {
+    "light": "/images/Frame1.png",
+    "dark": "/images/Frame6.png"
+  },
+  "description": "Come portare un'organizzazione attraverso un cambiamento identitario, togliendo quello che copre, non aggiungendo quello che manca",
+  "fonts": {
+    "family": "Inter"
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/oddtitoreal",
+      "linkedin": "https://www.linkedin.com/in/marcolivi"
+    }
   }
 }
