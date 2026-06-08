@@ -16,7 +16,7 @@ Configurare lo Specula Agent con il DNA del brand e testare la qualità del suo 
 
 ## Partecipanti
 
-Il Circolo di Sintesi. Sessione tecnica — richiede accesso al sistema.
+Il Circolo di Sintesi. Sessione tecnica: richiede accesso al sistema.
 
 ## Svolgimento
 

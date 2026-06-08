@@ -20,4 +20,4 @@ Ogni voce del Refusal Register documenta:
 
 Quando arriva una nuova pressione esterna, il brand non ricomincia da zero: consulta il Refusal Register per capire se la nuova proposta sta riportando dentro una forma già rifiutata, anche sotto un aspetto diverso.
 
-**Workshop:** [Audit della Memoria](../06_Workshop/08_audit-memoria.md) — 2 ore · trimestrale
+**Workshop:** [Audit della Memoria](../06_Workshop/08_audit-memoria.md): 2 ore · trimestrale

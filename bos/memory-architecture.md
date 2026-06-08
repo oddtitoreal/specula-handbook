@@ -2,7 +2,7 @@
 title: "Memory Architecture"
 ---
 
-# Memory Architecture — I 5 domini
+# Memory Architecture: I 5 domini
 
 > Da scrivere. Fonte: `specula-bos/docs/05_memory-architecture.md`
 
@@ -10,15 +10,15 @@ La Memory Architecture è ciò che trasforma il BOS da framework a sistema. Senz
 
 ## I 5 domini
 
-**Scenario Memory** — i futuri costruiti, i loro driver, le loro implicazioni. Aggiornata ad ogni ciclo di Re-Speculazione.
+**Scenario Memory**: i futuri costruiti, i loro driver, le loro implicazioni. Aggiornata ad ogni ciclo di Re-Speculazione.
 
-**Brand Memory** — il DNA, i valori immutabili, le tensioni etiche, i valori fragili. Il risultato del Layer 03 · IDENTITY.
+**Brand Memory**: il DNA, i valori immutabili, le tensioni etiche, i valori fragili. Il risultato del Layer 03 · IDENTITY.
 
-**Decision Memory** — le scelte strategiche prese, con il contesto in cui sono state prese. Alimenta il Brand Radar nel Layer 06.
+**Decision Memory**: le scelte strategiche prese, con il contesto in cui sono state prese. Alimenta il Brand Radar nel Layer 06.
 
-**Refusal Memory** — sinonimo di Refusal Register. Le forme rifiutate, i motivi, il contesto. (→ `02_refusal-register.md`)
+**Refusal Memory**: sinonimo di Refusal Register. Le forme rifiutate, i motivi, il contesto. (→ `02_refusal-register.md`)
 
-**Context Memory** — lo stato del sistema in un dato momento: quale scenario è attivo, quale fase del BOS è in corso, quali segnali sono sotto osservazione.
+**Context Memory**: lo stato del sistema in un dato momento: quale scenario è attivo, quale fase del BOS è in corso, quali segnali sono sotto osservazione.
 
 ## Come la memoria cambia il sistema
 

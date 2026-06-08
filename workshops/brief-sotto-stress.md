@@ -4,7 +4,7 @@ title: "Brief sotto stress"
 
 # Workshop · Il Brief Sotto Stress
 
-**Layer:** Principio — entra prima che il progetto prenda forma  
+**Layer:** Principio: entra prima che il progetto prenda forma  
 **Durata:** 90 minuti  
 **Frequenza:** All'inizio di ogni nuovo progetto o mandato
 

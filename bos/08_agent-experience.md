@@ -10,7 +10,7 @@ Come gli output del BOS si traducono in asset di design per agenti AI che agisco
 
 ---
 
-Il Layer 07 · INTERFACE configura lo Specula Agent interno — l'interlocutore strategico del team. Il layer di Agent Experience va oltre: riguarda qualsiasi agente AI che interagisce con il pubblico *in nome* del brand.
+Il Layer 07 · INTERFACE configura lo Specula Agent interno: l'interlocutore strategico del team. Il layer di Agent Experience va oltre: riguarda qualsiasi agente AI che interagisce con il pubblico *in nome* del brand.
 
 ## Il problema
 
@@ -20,13 +20,13 @@ Un brand che ha attraversato il BOS ha un DNA preciso, un Refusal Register, un P
 
 | Output BOS | Asset AX |
 |---|---|
-| **Brand DNA + Immutable Values** | Brand Policy — le istruzioni valoriali che l'agente non può violare |
-| **Strategic Protocol + criteri decisionali** | Brand Skills — le competenze con cui l'agente affronta situazioni nuove |
-| **Refusal Register** | Brand Contracts — i confini operativi che l'agente rispetta automaticamente |
+| **Brand DNA + Immutable Values** | Brand Policy: le istruzioni valoriali che l'agente non può violare |
+| **Strategic Protocol + criteri decisionali** | Brand Skills: le competenze con cui l'agente affronta situazioni nuove |
+| **Refusal Register** | Brand Contracts: i confini operativi che l'agente rispetta automaticamente |
 
 ## Il principio invariante
 
-Tutte le decisioni strategiche restano umane. L'agente amplifica — non sostituisce. Il Brand Alchemist è l'unica figura con autorità di modificare le Policy e i Contracts che governano l'agente.
+Tutte le decisioni strategiche restano umane. L'agente amplifica, non sostituisce. Il Brand Alchemist è l'unica figura con autorità di modificare le Policy e i Contracts che governano l'agente.
 
 ## Nota per il manuale
 

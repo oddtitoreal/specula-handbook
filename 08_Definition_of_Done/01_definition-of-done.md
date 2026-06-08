@@ -34,4 +34,4 @@ Questi criteri non sono parte del manifesto. Sono strumenti di verifica che il C
 
 ## Cosa succede dopo
 
-Il completamento del mandato non chiude la relazione — la trasforma. Il modello **Guardian** (→ `07_Modelli_di_Ingaggio/04_guardian-loop.md`) è il presidio annuale che il brand può attivare per mantenere la coerenza nel tempo senza ricominciare da zero.
+Il completamento del mandato non chiude la relazione: la trasforma. Il modello **Guardian** (→ `07_Modelli_di_Ingaggio/04_guardian-loop.md`) è il presidio annuale che il brand può attivare per mantenere la coerenza nel tempo senza ricominciare da zero.

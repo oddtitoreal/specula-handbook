@@ -12,7 +12,7 @@ L'organo vivente che presiede il BOS per tutta la durata della sua vita operativ
 
 ## Il problema che risolve
 
-La maggior parte delle organizzazioni affida le decisioni identitarie a una singola funzione o a un singolo ruolo. Il risultato è un brand che porta i bias cognitivi e disciplinari di chi lo governa — non per malafede, ma per mancanza di struttura deliberativa.
+La maggior parte delle organizzazioni affida le decisioni identitarie a una singola funzione o a un singolo ruolo. Il risultato è un brand che porta i bias cognitivi e disciplinari di chi lo governa: non per malafede, ma per mancanza di struttura deliberativa.
 
 Il Circolo di Sintesi è la risposta architettonica a questo problema.
 
@@ -34,7 +34,7 @@ Le discipline rappresentate coprono almeno tre dei quattro quadranti:
 
 La composizione mescola deliberatamente interno ed esterno:
 - Almeno **due figure interne**: una con mandato strategico, una con responsabilità operativa sul brand.
-- Almeno **una figura esterna**: un eticista, un ricercatore di futures, un antropologo culturale. La presenza esterna non è decorativa — interrompe i loop autoreferenziali che ogni organizzazione genera quando ragiona su se stessa.
+- Almeno **una figura esterna**: un eticista, un ricercatore di futures, un antropologo culturale. La presenza esterna non è decorativa: interrompe i loop autoreferenziali che ogni organizzazione genera quando ragiona su se stessa.
 
 ## Il Brand Alchemist
 

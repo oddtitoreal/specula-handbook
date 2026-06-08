@@ -4,7 +4,7 @@ title: "Audit della Memoria"
 
 # Workshop · Audit della Memoria
 
-**Layer:** Memoria — trasversale  
+**Layer:** Memoria: trasversale  
 **Durata:** 2 ore  
 **Frequenza:** Trimestrale (parte del Sensemaking trimestrale del Circolo)
 
