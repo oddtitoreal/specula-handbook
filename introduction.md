@@ -2,47 +2,59 @@
 title: "Cos'è Specula"
 description: "Cos'è Specula, da dove nasce il nome, a chi serve e come usare questo manuale."
 ---
-> *"Il cambiamento vero non aggiunge qualcosa che manca. Rimuove quello che copre ciò che era già lì."*
-> — *Fantasticare il futuro*
 
----
+Specula is a method for carrying an organization through identity change — not by adding what seems to be missing, but by removing what has accumulated on top of what already exists. The name carries two roots. In Latin, _specula_ means watchtower: the elevated point from which you see far without being swept along by the movement on the ground below. In contemporary design, speculative thinking — as formalized by Dunne & Raby — is the practice of building possible futures not to predict them, but to use them as instruments of clarity about the present. Specula unites both roots: a method that uses futures to make identity legible.
 
-Specula è un metodo. Serve a portare un'organizzazione attraverso un cambiamento identitario: non aggiunge quello che manca, toglie quello che copre.
+## The core idea
 
-Il libro *Fantasticare il futuro* racconta perché questo tipo di cambiamento è necessario e come si manifesta nella vita reale delle organizzazioni. È il mito fondativo del metodo: la narrazione, le storie, il quadro filosofico.
+The instinctive response to an identity problem is to add — a new tone of voice, a new visual system, a new positioning narrative. The assumption is that something is absent, and that adding it will restore coherence and recognizability.
 
-Questo manuale è il filtro. Prende quello che il libro fonda e lo traduce in strumenti, sequenze, output verificabili. Non racconta: espone. Non convince: opera.
+Specula starts from a different hypothesis. The problem is almost never an absence. It is a presence: layers that have accumulated over time — messages adopted for convenience, values declared for conformity, identities constructed to please rather than to _be_ — that have progressively covered what the organization truly is. The DNA is there. It is hidden, not missing.
 
-I due oggetti si leggono in direzioni diverse: il libro si legge per capire, il manuale si usa per fare.
+This changes the nature of the process entirely. The work is not architectural — it is archaeological. You are not building something new; you are excavating something real.
 
----
+## Who Specula is for
 
-## Il nome
+Specula serves three distinct types of users, each with a different relationship to the method:
 
-In latino, *specula* è la torre di osservazione: il punto sopraelevato da cui si vede lontano senza essere trascinati dal movimento del terreno. Nel design contemporaneo, il pensiero speculativo (Dunne & Raby) è la pratica di costruire futuri possibili non per prevederli, ma per usarli come strumenti di chiarezza sul presente.
+**Organizational leaders** facing a moment when the current version of their organization's identity no longer holds. Specula gives you a structured process with verifiable outputs — not an opaque consultancy relationship.
 
-Specula unisce le due radici: un metodo che usa i futuri per fare chiarezza sull'identità.
+**Consultants, designers, and brand strategists** who want to adopt Specula in their own practice. The BOS layers, workshop protocols, and governance structures are all designed to be operated by a trained practitioner inside a client engagement.
 
----
+**Students and researchers** studying the method in its operational form, independently of the book. Every section of this handbook stands on its own and links to the others where relevant.
 
-## A chi serve
+## What Specula produces
 
-A chi guida un'organizzazione nel momento in cui la versione corrente di sé non regge più.
+Specula does not produce a new logo, a new tone of voice, or a new positioning narrative. It produces something harder to build and longer-lasting: a system that allows your organization to remain recognizable to itself as context changes.
 
-Il metodo è usato da tre figure:
+The primary outputs of a Specula engagement are:
 
-- **Chi guida un'organizzazione**: vuole un processo strutturato, non una consulenza opaca.
-- **Consulenti, designer, brand strategist**: vogliono adottare Specula nei propri processi.
-- **Studenti e ricercatori**: vogliono studiare il metodo in forma operativa, indipendentemente dal libro.
+- **Speculative Brand DNA** — the immutable core of your organization's identity, stress-tested against divergent futures
+- **Refusal Register** — a living document of what your organization is not, which is equally definitive of what it is
+- **Brand Governance Playbook** — the protocols and rituals for maintaining identity coherence through the Circolo di Sintesi
+- **Brand Radar** — the monitoring system for detecting drift between lived identity and declared identity
+- **Specula Agent** — an AI assistant operating inside ethical boundaries written by your organization, not inherited from a platform
 
-Specula non è uno strumento di rebranding. Non produce un nuovo logo, un nuovo tono di voce, una nuova narrativa di posizionamento. Produce qualcosa di più difficile e più duraturo: un sistema che permette all'organizzazione di restare riconoscibile a se stessa mentre il contesto cambia.
+## How to use this handbook
 
----
+Your role determines your best entry point.
 
-## Come usare questo manuale
+If you are **evaluating Specula for your organization**, start with the Engagement Models. You will find the three engagement paths, understand the preconditions each requires, and identify which model fits your current situation before going deeper into the method.
 
-Se stai valutando Specula per la tua organizzazione, inizia dai **Modelli di Ingaggio**: trovi i tre percorsi tipo e puoi capire quale si adatta alla tua situazione prima di entrare nel dettaglio del metodo.
+If you are **adopting Specula as a practitioner**, start with the BOS Overview and work through the seven layers in sequence. Then move to the Workshop Protocols tab for the operational detail of each session.
 
-Se stai adottando Specula come professionista, inizia dall'**Overview del BOS** e percorri i layer in sequenza.
+If you are **studying the method**, every section is standalone. Enter from any point — the cross-links will guide you to related material as you need it.
 
-Se stai studiando il metodo, puoi entrare da qualsiasi sezione: ogni parte è leggibile autonomamente e rimanda alle altre dove necessario.
+<Note>
+  This handbook is the operational counterpart to the book _Fantasticare il futuro_. The book explains why this kind of identity change is necessary and how it manifests in the real life of organizations — it is the founding myth of the method: narrative, stories, philosophical framework. The handbook exposes the tools, sequences, and expected outputs. The two objects are read in opposite directions: the book to understand, the handbook to act.
+</Note>
+
+<CardGroup cols={2}>
+  <Card title="Subtractive Thesis" icon="search-minus" href="/foundations/subtractive-thesis">
+    Understand why Specula removes instead of adds — and why subtraction is the harder, more honest move.
+  </Card>
+
+  <Card title="Engagement Models" icon="map" href="/engagement/overview">
+    Compare the three engagement paths and identify the right starting point for your organization.
+  </Card>
+</CardGroup>
