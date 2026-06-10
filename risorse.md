@@ -14,7 +14,7 @@ Da quel percorso viene la convinzione che fonda Specula: un brand non è un docu
 
 Il nome dello studio ha una doppia radice deliberata: speculativo (il design come domanda prima che soluzione) e *specula*, dal latino, torre di osservazione, il luogo da cui si legge l'orizzonte prima di muoversi.
 
-Ha insegnato User Interface Design al Corso Executive di POLI.design (Politecnico di Milano), è design mentor su ADPList (Top 100 Mentor 2025) ed è stato speaker al We Make Future. Scrive di identità speculativa su Medium. È stato un workshop sul design speculativo, e un libro consigliato in quella sede, a mettere la prima pietra del metodo Specula.
+Ha insegnato User Interface Design al Corso Executive di POLI.design (Politecnico di Milano), è design mentor su ADPList (Top 100 Mentor 2025) ed è stato speaker al We Make Future. Scrive di identità speculativa su [Medium](https://medium.com/@marco.livi). È stato un workshop sul design speculativo, e un libro consigliato in quella sede, a mettere la prima pietra del metodo Specula.
 
 *Fantasticare il futuro* è il suo primo libro. Gli amici lo chiamano Tito.
 
