@@ -1,9 +1,7 @@
 ---
 title: "Il movimento in quattro tappe"
+description: "Le quattro tappe del movimento identitario — Crisi, Visione, Scelta, Custodia — e perché l'ordine non si salta."
 ---
-
-# Il movimento in quattro tappe
-
 > *→ Le quattro tappe corrispondono alle quattro parti del libro.*
 
 ---
@@ -68,4 +66,4 @@ Le quattro tappe non sono modulari. Non si può fare Scelta senza Visione: si sc
 
 Il Brief sotto stress, il primo momento di ogni percorso Specula, serve esattamente a questo: verificare che la crisi sia reale e riconosciuta prima di cominciare.
 
-→ [Workshop: Brief sotto stress](../06_Workshop/00_brief-sotto-stress.md) · [I Sette Layer](../04_I_Sette_Layer/) · [Circolo di Sintesi](../05_Ethical_Frame_e_Memoria/04_circolo-di-sintesi.md)
+→ [Workshop: Brief sotto stress](/workshops/brief-sotto-stress) · [I Sette Layer](/bos/overview) · [Circolo di Sintesi](/bos/circolo-di-sintesi)

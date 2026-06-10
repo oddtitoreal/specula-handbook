@@ -1,11 +1,7 @@
 ---
 title: "Brand Governance Playbook"
+description: "Il documento operativo a sei strati che il BOS produce per ogni ingaggio, dal DNA etico alle metriche di integrità."
 ---
-
-# Brand Governance Playbook
-
-> Fonte: `specula-bos/docs/07_open-ethical-layer.md`
-
 Il documento prodotto dal BOS per ogni cliente. La struttura è aperta: il modo in cui viene popolato con i valori specifici del brand è proprietario.
 
 ---
@@ -34,4 +30,8 @@ Gli indicatori che misurano la coerenza tra identità dichiarata e comportamento
 
 ---
 
-**Workshop:** [Costruzione della Matrice Comportamentale](../06_Workshop/09_matrice-comportamentale.md): produce il Playbook completo.
+**Workshop:** [Costruzione della Matrice Comportamentale](/workshops/matrice-comportamentale): produce il Playbook completo.
+
+---
+
+*Fonte canonica: [`specula-bos/docs/07_open-ethical-layer.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/07_open-ethical-layer.md)*

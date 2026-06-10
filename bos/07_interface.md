@@ -1,11 +1,7 @@
 ---
 title: "07 · Interface"
+description: "Layer 07 · INTERFACE — lo Specula Agent come interfaccia operativa del sistema."
 ---
-
-# Layer 07 · INTERFACE: Specula Agent
-
-> Fonte: `specula-bos/docs/03_seven-layers.md` + `docs/09_agent-experience.md`
-
 L'ultimo layer non è la chiusura del BOS: è il punto di accesso quotidiano al sistema.
 
 Lo Specula Agent non è un chatbot. È un interlocutore strategico con accesso all'intera memoria del sistema: il DNA, il Refusal Register, il Protocollo Strategico, il Decision Log, i Guardian Report. Quando il team deve prendere una decisione su una campagna, una partnership, una risposta pubblica, una nuova offerta, l'Agent porta il peso di ciò che il brand ha già scelto di essere.
@@ -34,5 +30,9 @@ Tutte le decisioni strategiche rimangono umane. L'Agent amplifica la capacità d
 | **Test di validazione** | 5 decisioni reali recenti verificate contro l'output dell'Agent |
 | **Team onboarding** | Il Circolo sa come usare l'Agent e dove si ferma il suo mandato |
 
-→ **Workshop:** [Onboarding dell'Agent](../06_Workshop/07_onboarding-agent.md): 2 ore
-→ **Approfondimento:** [Agent Experience](08_agent-experience.md): BOS output come asset per agenti AI rivolti al pubblico
+→ **Workshop:** [Onboarding dell'Agent](/workshops/onboarding-agent): 2 ore
+→ **Approfondimento:** [Agent Experience](/bos/08_agent-experience): BOS output come asset per agenti AI rivolti al pubblico
+
+---
+
+*Fonte canonica: [`specula-bos/docs/03_seven-layers.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/03_seven-layers.md)*

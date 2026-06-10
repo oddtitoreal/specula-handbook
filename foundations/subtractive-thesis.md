@@ -1,9 +1,7 @@
 ---
 title: "La tesi sottrattiva"
+description: "La tesi sottrattiva: i problemi di identità raramente sono assenze. Si toglie ciò che copre, non si aggiunge ciò che manca."
 ---
-
-# La tesi sottrattiva
-
 > *→ Il "perché" di questa tesi è nel libro: Parte Prima, capitolo 1.*
 
 ---
@@ -30,4 +28,4 @@ Quello che regge nei tre scenari è il DNA. Quello che collassa è stratificazio
 
 Il Refusal Register documenta questo processo nel tempo: ogni rifiuto è una traccia di cosa l'organizzazione non è, e quindi di cosa è. L'identità si costruisce anche per negazione.
 
-→ [Layer 03 · IDENTITY](../04_I_Sette_Layer/03_identity.md) · [Workshop: Archeologia del Brand](../06_Workshop/03_archeologia-brand.md) · [Refusal Register](../05_Ethical_Frame_e_Memoria/02_refusal-register.md)
+→ [Layer 03 · IDENTITY](/bos/03_identity) · [Workshop: Archeologia del Brand](/workshops/archeologia-brand) · [Refusal Register](/governance/refusal-register)

@@ -1,11 +1,7 @@
 ---
 title: "Circolo di Sintesi"
+description: "Il Circolo di Sintesi governa il BOS: composizione, ruolo del Brand Alchemist, ritmi operativi."
 ---
-
-# Circolo di Sintesi dell'Identità
-
-> Fonte: `specula-bos/docs/04_circolo-di-sintesi.md`
-
 L'organo vivente che presiede il BOS per tutta la durata della sua vita operativa.
 
 ---
@@ -60,4 +56,8 @@ Il Circolo non si riunisce quando c'è un problema. Si riunisce secondo una ritu
 | **Review** | Semestrale | Revisione del DNA: i valori radicali reggono? Le tensioni etiche sono cambiate? |
 | **Memory Audit** | Annuale | Verifica dei cinque domini di memoria, coerenza tra Decision Log e Refusal Register |
 
-**Workshop:** [Audit della Memoria](../06_Workshop/08_audit-memoria.md) · [Calibrazione Radar](../06_Workshop/06_calibrazione-radar.md)
+**Workshop:** [Audit della Memoria](/workshops/audit-memoria) · [Calibrazione Radar](/workshops/calibrazione-radar)
+
+---
+
+*Fonte canonica: [`specula-bos/docs/04_circolo-di-sintesi.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/04_circolo-di-sintesi.md)*

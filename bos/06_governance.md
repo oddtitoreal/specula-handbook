@@ -1,11 +1,7 @@
 ---
 title: "06 · Governance"
+description: "Layer 06 · GOVERNANCE — il Brand Radar e le soglie che proteggono la coerenza nel tempo."
 ---
-
-# Layer 06 · GOVERNANCE: Brand Radar + Guardian
-
-> Fonte: `specula-bos/docs/03_seven-layers.md`
-
 Il layer che trasforma il BOS da progetto a sistema permanente.
 
 Un'identità costruita e non presidiata decade. Non per malafede: per entropia. Il contesto cambia, le persone cambiano, le pressioni commerciali cambiano. Senza un sistema di rilevamento continuo, la deriva identitaria è invisibile finché non è già crisi.
@@ -34,4 +30,8 @@ La Re-Speculazione non ricomincia da zero. Si rientra nel layer più vicino all'
 | **Guardian Report** | Report trimestrale del Circolo: stato del Radar, drift rilevati, decisioni |
 | **Trigger di Re-Speculazione** | Condizioni definite che attivano il rientro nel BOS |
 
-→ **Workshop:** [Calibrazione del Radar](../06_Workshop/06_calibrazione-radar.md): 2 ore
+→ **Workshop:** [Calibrazione del Radar](/workshops/calibrazione-radar): 2 ore
+
+---
+
+*Fonte canonica: [`specula-bos/docs/03_seven-layers.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/03_seven-layers.md)*

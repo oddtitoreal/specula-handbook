@@ -1,11 +1,7 @@
 ---
 title: "02 · Futures"
+description: "Layer 02 · FUTURES — tre scenari divergenti resi concreti come vita quotidiana."
 ---
-
-# Layer 02 · FUTURES: Scenario Engine
-
-> Fonte: `specula-bos/docs/03_seven-layers.md`
-
 I segnali diventano scenari. Non previsioni, non proiezioni lineari: mondi divergenti costruiti combinando driver in tensione tra loro.
 
 Un scenario non descrive ciò che probabilmente accadrà. Descrive ciò che *potrebbe* accadere se certe forze si amplificassero. La sua utilità non è predittiva: è provocatoria. Mette il brand davanti a contesti che non ha ancora incontrato e rivela come risponderebbe.
@@ -26,4 +22,8 @@ Ogni scenario riceve un headline: una frase breve che lo nomina e lo rende memor
 | **Headline per scenario** | Una frase che cristallizza l'identità di ogni futuro |
 | **Indicatori di materializzazione** | I segnali concreti che direbbero "questo scenario si sta avverando": usati nel Layer 06 per il Brand Radar |
 
-→ **Workshop:** [Worldbuilding Collaborativo](../06_Workshop/02_worldbuilding-collaborativo.md): 4 ore
+→ **Workshop:** [Worldbuilding Collaborativo](/workshops/worldbuilding-collaborativo): 4 ore
+
+---
+
+*Fonte canonica: [`specula-bos/docs/03_seven-layers.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/03_seven-layers.md)*

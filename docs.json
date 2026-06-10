@@ -15,12 +15,21 @@
   "navigation": {
     "groups": [
       {
-        "group": "Introduzione",
+        "group": "Inizia qui",
         "pages": [
+          "index",
           "introduction",
+          "quickstart",
+          "ecosistema"
+        ]
+      },
+      {
+        "group": "Fondamenti",
+        "pages": [
           "foundations/subtractive-thesis",
           "foundations/four-stages",
-          "foundations/threshold-conditions"
+          "foundations/threshold-conditions",
+          "foundations/metodo-e-bos"
         ]
       },
       {
@@ -47,7 +56,8 @@
           "engagement/full-journey",
           "engagement/audit",
           "engagement/brand-nuovo",
-          "engagement/guardian-loop"
+          "engagement/guardian-loop",
+          "engagement/caso-studio"
         ]
       },
       {
@@ -77,7 +87,8 @@
       {
         "group": "Risorse",
         "pages": [
-          "09_Risorse/01_risorse"
+          "risorse",
+          "glossario"
         ]
       }
     ]

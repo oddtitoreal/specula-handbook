@@ -1,11 +1,7 @@
 ---
 title: "Specula Guardian"
+description: "La manutenzione annuale della coerenza: Scan mensili, Guardian Report trimestrali, protocollo di Re-Speculation."
 ---
-
-# Specula Guardian
-
-> Fonte: `specula-bos/docs/06_system-lifecycle.md`
-
 Presidio continuo per brand che hanno già attraversato il BOS.
 
 | Campo | Contenuto |
@@ -35,4 +31,8 @@ Re-Speculation: si rientra nel layer più vicino all'origine del problema
 
 La Re-Speculation è sempre una decisione umana. Il sistema la suggerisce, il Circolo la attiva. Non è un fallimento del BOS: è il suo funzionamento corretto. Un brand che attraversa una Re-Speculation ha un sistema che apprende.
 
-→ [Definition of Done](../08_Definition_of_Done/01_definition-of-done.md): il Guardian è il modello post-mandato
+→ [Definition of Done](/governance/definition-of-done): il Guardian è il modello post-mandato
+
+---
+
+*Fonte canonica: [`specula-bos/docs/06_system-lifecycle.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/06_system-lifecycle.md)*

@@ -1,9 +1,7 @@
 ---
 title: "Cos'è Specula"
+description: "Cos'è Specula, da dove nasce il nome, a chi serve e come usare questo manuale."
 ---
-
-# Cos'è Specula
-
 > *"Il cambiamento vero non aggiunge qualcosa che manca. Rimuove quello che copre ciò che era già lì."*
 > — *Fantasticare il futuro*
 

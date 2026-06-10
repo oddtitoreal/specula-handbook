@@ -1,11 +1,7 @@
 ---
 title: "01 · World"
+description: "Layer 01 · WORLD — il Signal Scan: segnali deboli, cluster di driver e catene di implicazione."
 ---
-
-# Layer 01 · WORLD: Signal Scan
-
-> Fonte: `specula-bos/docs/03_seven-layers.md`
-
 Il layer di apertura non cerca conferme. Cerca anomalie.
 
 La maggior parte delle organizzazioni monitora il proprio settore di riferimento. Il Layer 01 parte dall'ipotesi opposta: i segnali più rilevanti per un'identità arrivano quasi sempre da domini periferici. Cambiamenti culturali, tecnologici, politici, ambientali che non sembrano riguardarti finché non ti hanno già trasformato.
@@ -28,4 +24,8 @@ Il team umano porta l'interpretazione che l'AI non può dare: contesto locale, m
 
 Gli output del Layer 01 entrano direttamente nel Layer 02 come materia prima per la costruzione degli scenari. Un segnale non processato in scenari è osservazione senza conseguenze.
 
-→ **Workshop:** [Mappa Segnali Deboli](../06_Workshop/01_mappa-segnali-deboli.md): 3 ore
+→ **Workshop:** [Mappa Segnali Deboli](/workshops/mappa-segnali-deboli): 3 ore
+
+---
+
+*Fonte canonica: [`specula-bos/docs/03_seven-layers.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/03_seven-layers.md)*

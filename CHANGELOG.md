@@ -7,6 +7,33 @@ Il versioning usa il formato `YYYY.MM`.
 
 ---
 
+## [Non rilasciato]
+
+### Revisione strutturale ed editoriale — 2026-06-10
+
+**Aggiunto**
+- `quickstart.md` — percorsi di lettura per decisori, professionisti, integratori
+- `ecosistema.md` — mappa dei cinque repository, licenze, versioni documentate
+- `foundations/metodo-e-bos.md` — mappatura canonica 6 fasi del metodo ↔ 7 layer del BOS, equivalenze terminologiche
+- `glossario.md` — terminologia canonica IT/EN allineata a `specula-framework/specs/terminology.md`
+- `engagement/caso-studio.md` — Il posto delle fragole (da `specula-method`)
+- README.md, LICENSE.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, template issue (.github)
+
+**Modificato**
+- Homepage `index` aggiunta alla navigation (prima il sito serviva il template di default)
+- Tutti i link interni riscritti come percorsi assoluti Mintlify (17+ link rotti corretti)
+- Rimossi gli H1 duplicati dal body di tutte le pagine; aggiunta `description` al frontmatter di ogni pagina
+- I 10 workshop riscritti come protocolli replicabili: preparazione, agenda con tempi, criteri di riuscita, errori comuni, destinazione degli output
+- `workshops/overview.md` e `engagement/overview.md` trasformati da stub a pagine di orientamento con tabelle comparative
+- `risorse.md`: tabella licenze corretta (method/framework BY-SA, skill MIT), aggiunto `specula-skill`, URL spostato da `09_Risorse/01_risorse` a `risorse`
+- Note interne "Da scrivere. Fonte:" convertite in note di fonte canonica a piè di pagina
+
+**Rimosso**
+- Doppio albero dei contenuti: le cartelle numerate `01_…08_` spostate in `00_Meta/archive/` (la struttura pubblicata è l'unica fonte)
+- `bos/seven-layers.md` (stub orfano, archiviato)
+
+---
+
 ## [2026.06] — 2026-06-08
 
 ### Prima versione pubblica

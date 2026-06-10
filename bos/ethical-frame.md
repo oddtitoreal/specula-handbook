@@ -1,11 +1,7 @@
 ---
 title: "Ethical Frame"
+description: "L'Ethical Frame attraversa ogni layer del BOS: Immutable Values, Ethical Gate, Refusal Register."
 ---
-
-# Ethical Frame: Struttura trasversale
-
-> Da scrivere. Fonte: `specula-bos/docs/07_open-ethical-layer.md`
-
 L'Ethical Frame non è un filtro applicato alla fine del processo. È una struttura presente in ogni layer: ogni output generato viene valutato rispetto al Brand DNA prima di diventare input per il layer successivo.
 
 ## I tre componenti
@@ -20,4 +16,8 @@ L'Ethical Frame non è un filtro applicato alla fine del processo. È una strutt
 
 L'Ethical Frame è nella parte pubblica del BOS per una ragione precisa: la trasparenza del layer etico è essa stessa un atto di governance. Un brand che rende verificabile la propria struttura di rifiuto è un brand che ha smesso di gestire la propria reputazione per abitare la propria identità.
 
-**Workshop:** [Costruzione della Matrice Comportamentale](../06_Workshop/09_matrice-comportamentale.md): 3 ore · annuale
+**Workshop:** [Costruzione della Matrice Comportamentale](/workshops/matrice-comportamentale): 3 ore · annuale
+
+---
+
+*Fonte canonica: [`specula-bos/docs/07_open-ethical-layer.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/07_open-ethical-layer.md)*

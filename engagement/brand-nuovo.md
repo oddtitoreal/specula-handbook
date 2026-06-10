@@ -1,9 +1,7 @@
 ---
 title: "Brand Nuovo"
+description: "Costruire un DNA di brand dai futuri invece che dal passato: il percorso per fondazioni e rifondazioni."
 ---
-
-# Brand Nuovo
-
 DNA da costruire, non da scavare.
 
 | Campo | Contenuto |

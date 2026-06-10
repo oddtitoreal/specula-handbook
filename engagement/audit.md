@@ -1,11 +1,7 @@
 ---
 title: "Specula Audit"
+description: "Una diagnosi focalizzata di 2 settimane sullo stato identitario del brand, prima di qualsiasi percorso."
 ---
-
-# Specula Audit
-
-> Fonte: `specula-bos/docs/06_system-lifecycle.md`
-
 Diagnosi dell'identità prima di decidere se e come procedere.
 
 | Campo | Contenuto |
@@ -25,3 +21,7 @@ L'Audit non produce un BOS. Produce la chiarezza necessaria per decidere se e co
 - Avviare il **Full Journey**: costruire il BOS completo
 - Avviare un percorso parziale: entrare dal layer più rilevante per il problema specifico
 - Non procedere: con una diagnosi chiara del perché e di cosa servirebbe in futuro
+
+---
+
+*Fonte canonica: [`specula-bos/docs/06_system-lifecycle.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/06_system-lifecycle.md)*

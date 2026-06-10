@@ -1,11 +1,7 @@
 ---
 title: "04 · Exploration"
+description: "Layer 04 · EXPLORATION — prototipare il brand negli scenari e passarlo all'Ethical Gate."
 ---
-
-# Layer 04 · EXPLORATION: Speculative Prototyping
-
-> Fonte: `specula-bos/docs/03_seven-layers.md`
-
 Il brand viene collocato dentro i futuri. Concretamente: cosa diventerebbe il brand in ciascuno dei tre scenari costruiti nel Layer 02? Come comunica, come si comporta, cosa rifiuta, cosa abbraccia?
 
 La risposta non viene data in astratto ma costruita in forma di prototipi discorsivi: artefatti speculativi, storyboard di servizio, scenari di interazione. Non si tratta di design definitivo: si tratta di rendere tangibile qualcosa che altrimenti resterebbe ipotetico.
@@ -32,4 +28,8 @@ Il Layer 04 produce la prima versione del Refusal Register. Non è una lista di 
 | **Output dell'Ethical Gate** | Cosa ha passato il Gate e cosa no, con ragioni |
 | **Refusal Register v1** | Prime voci con contesto, ragioni, data |
 
-→ **Workshop:** [Confrontation: Il Brand nei Futuri](../06_Workshop/04_confrontation-brand-nei-futuri.md): 4 ore
+→ **Workshop:** [Confrontation: Il Brand nei Futuri](/workshops/confrontation-brand-nei-futuri): 4 ore
+
+---
+
+*Fonte canonica: [`specula-bos/docs/03_seven-layers.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/03_seven-layers.md)*

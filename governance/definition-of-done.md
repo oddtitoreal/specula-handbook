@@ -1,11 +1,7 @@
 ---
 title: "Definition of Done"
+description: "Quando un ingaggio Specula è completo: l'organizzazione governa il proprio BOS in autonomia."
 ---
-
-# Definition of Done
-
-> Fonte: `specula-bos/docs/08_definition-of-done.md`
-
 Il contratto operativo tra Specula e il cliente.
 
 ---
@@ -35,3 +31,7 @@ Questi criteri non sono parte del manifesto. Sono strumenti di verifica che il C
 ## Cosa succede dopo
 
 Il completamento del mandato non chiude la relazione: la trasforma. Il modello **Guardian** (→ `07_Modelli_di_Ingaggio/04_guardian-loop.md`) è il presidio annuale che il brand può attivare per mantenere la coerenza nel tempo senza ricominciare da zero.
+
+---
+
+*Fonte canonica: [`specula-bos/docs/08_definition-of-done.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/08_definition-of-done.md)*

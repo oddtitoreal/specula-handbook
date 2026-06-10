@@ -1,8 +1,8 @@
 ---
 title: "Risorse"
+description: "Autore, libro, repository GitHub, come contribuire, licenza e versioning del manuale."
 ---
 
-# Risorse
 
 ## Chi ha scritto questo manuale
 
@@ -28,16 +28,19 @@ I due oggetti si leggono in direzioni diverse: il libro si legge per capire, il 
 
 ## Repository GitHub
 
-L'ecosistema Specula è distribuito su quattro repository pubblici sotto l'organizzazione [`oddtitoreal`](https://github.com/oddtitoreal):
+L'ecosistema Specula è distribuito su cinque repository pubblici sotto l'account [`oddtitoreal`](https://github.com/oddtitoreal):
 
 | Repository | Ruolo | Licenza |
 |---|---|---|
 | [`specula-handbook`](https://github.com/oddtitoreal/specula-handbook) | Questo manuale: documentazione operativa del metodo | CC BY-NC-SA 4.0 |
-| [`specula-bos`](https://github.com/oddtitoreal/specula-bos) | Il prodotto: architettura dei 7 layer, workshop, Memory Architecture | CC BY-NC-SA 4.0 |
-| [`specula-method`](https://github.com/oddtitoreal/specula-method) | Il processo: facilitazione, fasi, etica | CC BY-NC-SA 4.0 |
-| [`specula-framework`](https://github.com/oddtitoreal/specula-framework) | La specifica runtime: schemi JSON, validazione, contratti | CC BY-SA 4.0 |
+| [`specula-method`](https://github.com/oddtitoreal/specula-method) | Il processo: il metodo in sei fasi, facilitazione, etica, template, case study | CC BY-SA 4.0 |
+| [`specula-bos`](https://github.com/oddtitoreal/specula-bos) | Il prodotto: architettura dei 7 layer, workshop, Memory Architecture | CC BY-NC-SA 4.0 (dichiarata) |
+| [`specula-framework`](https://github.com/oddtitoreal/specula-framework) | La specifica runtime: schemi JSON, validazione, contratti, agente eseguibile | CC BY-SA 4.0 |
+| [`specula-skill`](https://github.com/oddtitoreal/specula-skill) | L'implementazione: constitution, state machine, validatore | MIT |
 
-> **Nota sulla licenza di `specula-framework`:** il framework usa CC BY-SA 4.0 (senza NC) per permettere integrazione tecnica in contesti commerciali. Gli altri repo usano BY-NC-SA perché riguardano il metodo, non l'implementazione tecnica.
+> **Nota sulle licenze:** le licenze sono deliberatamente diverse. `specula-method` e `specula-framework` usano CC BY-SA 4.0 (senza clausola NC) per permettere l'adozione del processo e l'integrazione tecnica anche in contesti commerciali; `specula-skill` usa MIT perché è codice destinato a essere incorporato; il manuale e il BOS usano BY-NC-SA perché descrivono il metodo come pratica professionale. In caso di discrepanza tra questa tabella e i file LICENSE nei repository, fanno fede i repository.
+
+Per la mappa completa dell'ecosistema — chi fa cosa, da dove entrare, quali versioni documenta questo manuale — vedi [Ecosistema Specula](/ecosistema).
 
 ---
 

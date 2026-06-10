@@ -1,11 +1,7 @@
 ---
 title: "03 · Identity"
+description: "Layer 03 · IDENTITY — la Brand Archaeology separa i valori radicali da quelli contingenti."
 ---
-
-# Layer 03 · IDENTITY: Brand Core
-
-> Fonte: `specula-bos/docs/03_seven-layers.md`
-
 Il layer più delicato del sistema. L'errore più comune è trattarlo come un esercizio di brand vision: "chi vogliamo essere". Il Layer 03 fa la domanda opposta: "chi siamo già stati, nelle decisioni che contano?"
 
 La Brand Archaeology non costruisce l'identità: la scava. Raccoglie tracce concrete: le scelte difficili che l'organizzazione ha fatto, i rifiuti che ha sostenuto sotto pressione, i momenti in cui ha tenuto una posizione quando era costoso farlo. Questi sono i dati. Non ciò che l'organizzazione dice di essere.
@@ -27,4 +23,8 @@ Questa distinzione non è giudicante: la stratificazione non è sbagliata, è se
 
 Gli Immutable Values entrano nell'Ethical Frame e restano lì per tutta la vita del BOS. Cambiarli richiede una deliberazione esplicita del Circolo di Sintesi: non è un aggiornamento ordinario.
 
-→ **Workshop:** [Archeologia del Brand](../06_Workshop/03_archeologia-brand.md): 3 ore + 1 ora analisi AI
+→ **Workshop:** [Archeologia del Brand](/workshops/archeologia-brand): 3 ore + 1 ora analisi AI
+
+---
+
+*Fonte canonica: [`specula-bos/docs/03_seven-layers.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/03_seven-layers.md)*

@@ -1,11 +1,7 @@
 ---
 title: "Full Journey"
+description: "Il percorso completo: tutti e 7 i layer del BOS in 2–3 mesi, dal Signal Scan allo Specula Agent."
 ---
-
-# Full Journey
-
-> Fonte: `specula-bos/docs/06_system-lifecycle.md`
-
 Il percorso completo attraverso i 7 layer del BOS.
 
 | Campo | Contenuto |
@@ -43,4 +39,8 @@ Matrice Comportamentale (3 ore) → Brand Governance Playbook
 
 Durata totale workshop: ~25 ore distribuite su 2–3 mesi.
 
-→ [Definition of Done](../08_Definition_of_Done/01_definition-of-done.md)
+→ [Definition of Done](/governance/definition-of-done)
+
+---
+
+*Fonte canonica: [`specula-bos/docs/06_system-lifecycle.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/06_system-lifecycle.md)*

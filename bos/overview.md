@@ -1,9 +1,7 @@
 ---
 title: "Brand Operating System"
+description: "Il Brand Operating System: architettura a 7 layer, componenti trasversali, cosa è aperto e cosa è proprietario."
 ---
-
-# Brand Operating System
-
 > Fonte primaria: [`specula-bos`](https://github.com/oddtitoreal/specula-bos)
 
 Il BOS non è il metodo. È ciò che il metodo costruisce.
@@ -78,4 +76,4 @@ L'architettura è aperta. Le implementazioni specifiche che Specula porta nei pe
 
 I sette layer sono documentati nelle pagine seguenti. Ogni pagina descrive cosa fa il layer, come funziona la collaborazione umano-AI, gli output e il workshop che li produce.
 
-Per capire come i layer si collegano in un percorso completo, vedi i [Modelli di Ingaggio](../07_Modelli_di_Ingaggio/01_full-journey.md).
+Per capire come i layer si collegano in un percorso completo, vedi i [Modelli di Ingaggio](/engagement/full-journey).

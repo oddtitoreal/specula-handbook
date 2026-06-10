@@ -1,11 +1,7 @@
 ---
 title: "08 · Agent Experience"
+description: "Layer 08 · AGENT EXPERIENCE — come il brand si presenta agli agenti AI che decidono per gli utenti."
 ---
-
-# Layer 08 · AGENT EXPERIENCE
-
-> Fonte: `specula-bos/docs/09_agent-experience.md`
-
 Come gli output del BOS si traducono in asset di design per agenti AI che agiscono per conto del brand.
 
 ---
@@ -31,3 +27,7 @@ Tutte le decisioni strategiche restano umane. L'agente amplifica, non sostituisc
 ## Nota per il manuale
 
 Questo layer è il più giovane dell'architettura ed è in evoluzione attiva. Il repo `specula-bos/docs/09_agent-experience.md` è la fonte aggiornata.
+
+---
+
+*Fonte canonica: [`specula-bos/docs/09_agent-experience.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/09_agent-experience.md)*

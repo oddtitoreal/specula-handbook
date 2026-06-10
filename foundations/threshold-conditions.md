@@ -1,9 +1,7 @@
 ---
 title: "Le tre condizioni della soglia"
+description: "Le tre condizioni della soglia che Specula richiede per iniziare: mandato reale, crisi riconosciuta, disponibilità a sottrarre."
 ---
-
-# Le tre condizioni della soglia
-
 > *"Il terreno deve essere pronto. Non nel senso che l'organizzazione deve aver raggiunto la perfezione. Nel senso che deve aver smesso di mentire a se stessa su chi è."*
 > — *Fantasticare il futuro*
 
@@ -57,4 +55,4 @@ Le tre condizioni non si compensano a vicenda. Mandato forte e crisi riconosciut
 
 Se una condizione manca, Specula può comunque essere utile, ma il percorso cambia. Un Audit chiarisce cosa manca e cosa servirebbe per creare le condizioni. È più onesto di un Full Journey che produce materiali senza conseguenze.
 
-→ [Workshop: Brief sotto stress](../06_Workshop/00_brief-sotto-stress.md) · [Modelli di Ingaggio](../07_Modelli_di_Ingaggio/) · [La tesi sottrattiva](01_tesi-sottrattiva.md)
+→ [Workshop: Brief sotto stress](/workshops/brief-sotto-stress) · [Modelli di Ingaggio](/engagement/overview) · [La tesi sottrattiva](/foundations/subtractive-thesis)

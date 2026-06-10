@@ -1,11 +1,7 @@
 ---
 title: "05 · Strategy"
+description: "Layer 05 · STRATEGY — dal portfolio di prototipi validati al Protocollo Strategico."
 ---
-
-# Layer 05 · STRATEGY: Strategic Protocol
-
-> Fonte: `specula-bos/docs/03_seven-layers.md`
-
 I prototipi validati diventano direzione. Ma non un piano.
 
 La distinzione tra piano e protocollo è sostanziale. Un piano prescrive azioni specifiche in sequenza: funziona finché il contesto rimane stabile. Un protocollo prescrive criteri di scelta: funziona proprio perché non dipende da un contesto specifico.
@@ -30,4 +26,8 @@ Il processo ha tre livelli:
 | **Tesi narrativa** | La direzione in una frase: non per la comunicazione esterna, per il Circolo |
 | **Experiment Roadmap 30/60/90** | Azioni concrete per testare e calibrare il protocollo |
 
-→ **Workshop:** [Dal Prototipo al Protocollo](../06_Workshop/05_dal-prototipo-al-protocollo.md): 3 ore
+→ **Workshop:** [Dal Prototipo al Protocollo](/workshops/dal-prototipo-al-protocollo): 3 ore
+
+---
+
+*Fonte canonica: [`specula-bos/docs/03_seven-layers.md`](https://github.com/oddtitoreal/specula-bos/blob/main/docs/03_seven-layers.md)*
