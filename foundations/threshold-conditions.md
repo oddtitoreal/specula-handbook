@@ -3,7 +3,7 @@ title: "Le tre condizioni della soglia"
 description: "Le tre condizioni della soglia che Specula richiede per iniziare: mandato reale, crisi riconosciuta, disponibilità a sottrarre."
 ---
 > *"Il terreno deve essere pronto. Non nel senso che l'organizzazione deve aver raggiunto la perfezione. Nel senso che deve aver smesso di mentire a se stessa su chi è."*
-> — *Fantasticare il futuro*
+> *Fantasticare il futuro*
 
 ---
 

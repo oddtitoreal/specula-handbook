@@ -19,7 +19,7 @@ Costruire collettivamente una mappa dei segnali deboli rilevanti per il brand, c
 
 ## Partecipanti e ruoli
 
-Il Circolo di Sintesi. La composizione conta più del numero: servono **competenze da domini diversi** — culturale, tecnologico, normativo, economico, ambientale. Un facilitatore conduce; l'AI lavora come secondo cervello del gruppo, non come oracolo.
+Il Circolo di Sintesi. La composizione conta più del numero: servono **competenze da domini diversi**: culturale, tecnologico, normativo, economico, ambientale. Un facilitatore conduce; l'AI lavora come secondo cervello del gruppo, non come oracolo.
 
 ## Preparazione
 
@@ -29,15 +29,15 @@ Il Circolo di Sintesi. La composizione conta più del numero: servono **competen
 
 ## Svolgimento
 
-**1 · Deposito dei segnali** (30 min) — Ogni partecipante presenta i propri cinque segnali, senza discussione. Solo domande di chiarimento.
+**1 · Deposito dei segnali** (30 min): Ogni partecipante presenta i propri cinque segnali, senza discussione. Solo domande di chiarimento.
 
-**2 · Round 1: classificazione** (45 min) — Il gruppo classifica i segnali per dominio (culturale, tecnologico, normativo, economico, ambientale) e per potenziale di impatto — non per certezza: un segnale debole classificato per certezza è già un trend, e i trend non servono qui.
+**2 · Round 1: classificazione** (45 min): Il gruppo classifica i segnali per dominio (culturale, tecnologico, normativo, economico, ambientale) e per potenziale di impatto, non per certezza: un segnale debole classificato per certezza è già un trend, e i trend non servono qui.
 
-**3 · Round 2: catene di implicazione** (60 min) — Per ogni cluster: se questa forza si amplifica, cosa cambia? Per chi? In quale sequenza? Il gruppo traccia come ogni segnale potrebbe influenzare gli altri e cosa implicherebbe per il brand se si consolidasse.
+**3 · Round 2: catene di implicazione** (60 min): Per ogni cluster: se questa forza si amplifica, cosa cambia? Per chi? In quale sequenza? Il gruppo traccia come ogni segnale potrebbe influenzare gli altri e cosa implicherebbe per il brand se si consolidasse.
 
-**4 · Analisi AI delle correlazioni** (30 min) — L'AI elabora il corpus per identificare correlazioni non ovvie tra segnali di domini diversi. Il gruppo valuta le proposte: un segnale è debole o forte *rispetto a qualcosa*, e quel giudizio resta umano.
+**4 · Analisi AI delle correlazioni** (30 min): L'AI elabora il corpus per identificare correlazioni non ovvie tra segnali di domini diversi. Il gruppo valuta le proposte: un segnale è debole o forte *rispetto a qualcosa*, e quel giudizio resta umano.
 
-**5 · Consolidamento** (15 min) — La mappa viene chiusa: 15–20 segnali classificati, con implicazioni di primo e secondo livello.
+**5 · Consolidamento** (15 min): La mappa viene chiusa: 15–20 segnali classificati, con implicazioni di primo e secondo livello.
 
 ## Criteri di riuscita
 

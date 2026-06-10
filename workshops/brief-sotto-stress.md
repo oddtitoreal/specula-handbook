@@ -3,7 +3,7 @@ title: "Brief sotto stress"
 description: "90 minuti per esporre le assunzioni valoriali implicite nel brief prima che diventi mandato operativo."
 ---
 
-**Posizione:** prima di ogni ingaggio — entra prima che il progetto prenda forma
+**Posizione:** prima di ogni ingaggio: entra prima che il progetto prenda forma
 **Durata:** 90 minuti
 **Frequenza:** all'inizio di ogni nuovo progetto o mandato
 
@@ -15,7 +15,7 @@ Portare alla luce le assunzioni valoriali implicite nel brief di progetto prima 
 
 ## Quando si usa
 
-Sempre, prima di iniziare. È anche lo strumento con cui si verificano le tre [condizioni della soglia](/foundations/threshold-conditions): se durante la sessione emerge che il mandato non è reale, che la crisi non è riconosciuta o che non c'è disponibilità a sottrarre, è qui che l'ingaggio si ferma — al costo più basso possibile.
+Sempre, prima di iniziare. È anche lo strumento con cui si verificano le tre [condizioni della soglia](/foundations/threshold-conditions): se durante la sessione emerge che il mandato non è reale, che la crisi non è riconosciuta o che non c'è disponibilità a sottrarre, è qui che l'ingaggio si ferma, al costo più basso possibile.
 
 ## Partecipanti e ruoli
 
@@ -29,15 +29,15 @@ Il Circolo di Sintesi, o il gruppo che ne farà parte: **almeno tre figure con p
 
 ## Svolgimento
 
-**1 · Presentazione del brief** (10 min) — Il facilitatore presenta il brief al gruppo, senza commento.
+**1 · Presentazione del brief** (10 min): Il facilitatore presenta il brief al gruppo, senza commento.
 
-**2 · Lettura disciplinare** (20 min) — Ciascun partecipante rilegge il documento con la propria lente e annota le assunzioni non dichiarate: cosa il brief dà per scontato su utenti, tecnologia, valori, confini del sistema. Lavoro individuale, in silenzio.
+**2 · Lettura disciplinare** (20 min): Ciascun partecipante rilegge il documento con la propria lente e annota le assunzioni non dichiarate: cosa il brief dà per scontato su utenti, tecnologia, valori, confini del sistema. Lavoro individuale, in silenzio.
 
-**3 · Mappa delle tensioni** (25 min) — Le annotazioni vengono condivise e raggruppate. Ogni assunzione non dichiarata diventa visibile e negoziabile. Le tensioni tra assunzioni di partecipanti diversi sono il materiale più prezioso: non vanno appianate, vanno mappate.
+**3 · Mappa delle tensioni** (25 min): Le annotazioni vengono condivise e raggruppate. Ogni assunzione non dichiarata diventa visibile e negoziabile. Le tensioni tra assunzioni di partecipanti diversi sono il materiale più prezioso: non vanno appianate, vanno mappate.
 
-**4 · Da tensione a domanda** (20 min) — Ogni tensione viene riformulata come domanda *How Might We*, che orienta la riscrittura invece di chiuderla.
+**4 · Da tensione a domanda** (20 min): Ogni tensione viene riformulata come domanda *How Might We*, che orienta la riscrittura invece di chiuderla.
 
-**5 · Riscrittura** (15 min) — Il brief viene riscritto con assunzioni valoriali esplicite e criteri decisionali dichiarati. Se la riscrittura completa non sta nei tempi, si fissano per iscritto le modifiche concordate e un owner per la stesura.
+**5 · Riscrittura** (15 min): Il brief viene riscritto con assunzioni valoriali esplicite e criteri decisionali dichiarati. Se la riscrittura completa non sta nei tempi, si fissano per iscritto le modifiche concordate e un owner per la stesura.
 
 ## Criteri di riuscita
 

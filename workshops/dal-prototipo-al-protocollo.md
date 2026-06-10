@@ -31,11 +31,11 @@ Il Circolo di Sintesi. **Sessione guidata dal Brand Alchemist**, che tiene la di
 
 Il Circolo lavora su tre livelli in sequenza:
 
-**Livello 1 · Tesi narrativa** (60 min) — Dalla costellazione di prototipi validati e valori radicali, il Circolo costruisce la tesi narrativa del brand: chi è il brand nei futuri che ha scelto di abitare. Una tesi, non uno slogan: deve poter essere contraddetta.
+**Livello 1 · Tesi narrativa** (60 min): Dalla costellazione di prototipi validati e valori radicali, il Circolo costruisce la tesi narrativa del brand: chi è il brand nei futuri che ha scelto di abitare. Una tesi, non uno slogan: deve poter essere contraddetta.
 
-**Livello 2 · Criteri decisionali** (60 min) — La tesi viene tradotta in criteri di scelta operativi: le regole pratiche per valutare decisioni future. Non prescrizioni specifiche, ma principi che restano validi quando le condizioni cambiano. Ogni criterio viene testato a ritroso: avrebbe orientato correttamente le ultime tre decisioni reali del brand?
+**Livello 2 · Criteri decisionali** (60 min): La tesi viene tradotta in criteri di scelta operativi: le regole pratiche per valutare decisioni future. Non prescrizioni specifiche, ma principi che restano validi quando le condizioni cambiano. Ogni criterio viene testato a ritroso: avrebbe orientato correttamente le ultime tre decisioni reali del brand?
 
-**Livello 3 · Roadmap esperimenti** (60 min) — Il Circolo definisce una roadmap a 30/60/90 giorni per testare le ipotesi nei contesti reali prima che diventino scelte irreversibili. Ogni esperimento ha un'ipotesi dichiarata e un segnale di falsificazione.
+**Livello 3 · Roadmap esperimenti** (60 min): Il Circolo definisce una roadmap a 30/60/90 giorni per testare le ipotesi nei contesti reali prima che diventino scelte irreversibili. Ogni esperimento ha un'ipotesi dichiarata e un segnale di falsificazione.
 
 ## Criteri di riuscita
 

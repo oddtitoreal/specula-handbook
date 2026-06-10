@@ -29,22 +29,22 @@ Il Circolo di Sintesi. La sessione **richiede il Brand Alchemist**: la deliberaz
 
 ## Svolgimento
 
-**1 · Raccolta delle tracce** (45 min) — Il gruppo organizza il corpus: cosa il brand ha detto, cosa ha fatto, dove le due cose divergono. I compromessi taciuti valgono quanto le dichiarazioni ufficiali.
+**1 · Raccolta delle tracce** (45 min): Il gruppo organizza il corpus: cosa il brand ha detto, cosa ha fatto, dove le due cose divergono. I compromessi taciuti valgono quanto le dichiarazioni ufficiali.
 
-**2 · Value Stress Test** (90 min) — Ogni valore dichiarato viene proiettato nei tre scenari:
+**2 · Value Stress Test** (90 min): Ogni valore dichiarato viene proiettato nei tre scenari:
    - i valori che reggono in tutti gli scenari sono **radicali**;
    - i valori che si spezzano in uno o più scenari sono **fragili o contingenti**.
 
    "Reggere" ha un significato preciso: il valore continua a orientare decisioni concrete anche quando il contesto lo rende costoso.
 
-**3 · Deliberazione etica** (45 min) — Il Circolo delibera sulle tensioni emerse e definisce le *red lines*: i confini non negoziabili. Le tensioni che non si risolvono non si nascondono: si registrano come tensioni note.
+**3 · Deliberazione etica** (45 min): Il Circolo delibera sulle tensioni emerse e definisce le *red lines*: i confini non negoziabili. Le tensioni che non si risolvono non si nascondono: si registrano come tensioni note.
 
-**+1 ora · Analisi AI** (asincrona) — L'AI elabora il corpus della fase 1 e restituisce pattern, incoerenze e archetipi ricorrenti come materiale di confronto. Il confronto tra lettura umana e lettura algoritmica è parte del metodo: dove divergono, c'è quasi sempre qualcosa di rimosso.
+**+1 ora · Analisi AI** (asincrona): L'AI elabora il corpus della fase 1 e restituisce pattern, incoerenze e archetipi ricorrenti come materiale di confronto. Il confronto tra lettura umana e lettura algoritmica è parte del metodo: dove divergono, c'è quasi sempre qualcosa di rimosso.
 
 ## Criteri di riuscita
 
 - Almeno un valore dichiarato è risultato contingente: se reggono tutti, il test non ha stressato nulla.
-- Ogni valore radicale è formulato in forma operativa, non descrittiva ("se non migliora X, non è una scelta valida" — non "crediamo in X").
+- Ogni valore radicale è formulato in forma operativa, non descrittiva ("se non migliora X, non è una scelta valida", non "crediamo in X").
 - Le red lines sono verificabili da un terzo che non ha partecipato alla sessione.
 
 ## Errori comuni

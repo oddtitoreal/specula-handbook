@@ -1,4 +1,4 @@
-# Manuale Specula — Indice dei contenuti
+# Manuale Specula · Indice dei contenuti
 
 Mappa interna dei sorgenti. La presentazione del repo è in [README.md](README.md); il manuale pubblicato è su [speculafuturecrafting.mintlify.app](https://speculafuturecrafting.mintlify.app).
 

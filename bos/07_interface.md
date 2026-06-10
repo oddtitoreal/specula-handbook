@@ -1,6 +1,6 @@
 ---
 title: "07 · Interface"
-description: "Layer 07 · INTERFACE — lo Specula Agent come interfaccia operativa del sistema."
+description: "Layer 07 · INTERFACE: lo Specula Agent come interfaccia operativa del sistema."
 ---
 L'ultimo layer non è la chiusura del BOS: è il punto di accesso quotidiano al sistema.
 

@@ -4,17 +4,17 @@ Grazie dell'interesse. Questo manuale è open source e i contributi sono benvenu
 
 ## Cosa accettiamo
 
-**Correzioni e chiarimenti** — Errori tipografici, link rotti, imprecisioni fattuali rispetto ai repo di riferimento, formulazioni ambigue. Apri una [issue](https://github.com/oddtitoreal/specula-handbook/issues) con il template *Bug / Errore* o *Chiarimento*, oppure direttamente una PR per le correzioni banali.
+**Correzioni e chiarimenti**: Errori tipografici, link rotti, imprecisioni fattuali rispetto ai repo di riferimento, formulazioni ambigue. Apri una [issue](https://github.com/oddtitoreal/specula-handbook/issues) con il template *Bug / Errore* o *Chiarimento*, oppure direttamente una PR per le correzioni banali.
 
-**Traduzioni** — Il manuale è in italiano per scelta; le versioni in altre lingue sono benvenute. Apri prima una issue con il template *Traduzione* per coordinarti ed evitare lavoro duplicato.
+**Traduzioni**: Il manuale è in italiano per scelta; le versioni in altre lingue sono benvenute. Apri prima una issue con il template *Traduzione* per coordinarti ed evitare lavoro duplicato.
 
-**Note dal campo** — Hai usato un workshop Specula e hai osservazioni sull'applicazione pratica? È il contributo più prezioso. Una PR che aggiunge una sezione "Note dal campo" alla fine della pagina del workshop: cosa ha funzionato, cosa va calibrato, in quale contesto.
+**Note dal campo**: Hai usato un workshop Specula e hai osservazioni sull'applicazione pratica? È il contributo più prezioso. Una PR che aggiunge una sezione "Note dal campo" alla fine della pagina del workshop: cosa ha funzionato, cosa va calibrato, in quale contesto.
 
 ## Cosa non accettiamo
 
-**Modifiche al metodo** — La struttura del BOS, la sequenza dei layer, i principi etici, il funzionamento del Circolo di Sintesi evolvono nei repo [`specula-method`](https://github.com/oddtitoreal/specula-method) e [`specula-bos`](https://github.com/oddtitoreal/specula-bos), non in questo manuale. Una PR che cambia come funziona il metodo verrà chiusa con un reindirizzo al repo appropriato.
+**Modifiche al metodo**: La struttura del BOS, la sequenza dei layer, i principi etici, il funzionamento del Circolo di Sintesi evolvono nei repo [`specula-method`](https://github.com/oddtitoreal/specula-method) e [`specula-bos`](https://github.com/oddtitoreal/specula-bos), non in questo manuale. Una PR che cambia come funziona il metodo verrà chiusa con un reindirizzo al repo appropriato.
 
-**Contenuti commerciali** — La licenza BY-NC-SA non permette usi commerciali. Non accettiamo link, riferimenti o endorsement commerciali.
+**Contenuti commerciali**: La licenza BY-NC-SA non permette usi commerciali. Non accettiamo link, riferimenti o endorsement commerciali.
 
 ## Come proporre una modifica
 

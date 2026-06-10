@@ -3,7 +3,7 @@ title: "Matrice Comportamentale"
 description: "3 ore annuali per tradurre i valori radicali in matrice di governance: Ammesso, Sensibile, Vietato."
 ---
 
-**Componente:** [Ethical Frame](/bos/ethical-frame) — trasversale
+**Componente:** [Ethical Frame](/bos/ethical-frame), trasversale
 **Durata:** 3 ore
 **Frequenza:** annuale (i valori non cambiano, ma il contesto in cui si applicano sì)
 
@@ -33,13 +33,13 @@ Ogni comportamento o pratica viene classificato in tre zone:
 
 ## Svolgimento
 
-**1 · Presentazione del territorio** (20 min) — Il facilitatore presenta le tre zone come territorio da mappare, non come regole da applicare.
+**1 · Presentazione del territorio** (20 min): Il facilitatore presenta le tre zone come territorio da mappare, non come regole da applicare.
 
-**2 · Lavoro sui casi reali** (90 min) — Il Circolo parte da situazioni in cui il team ha già preso decisioni, più casi futuri plausibili. Per ogni caso: dove si colloca nella matrice? Perché? Quale valore radicale orienta la risposta? I valori emergono dal basso, dalla pratica — non vengono imposti dall'alto.
+**2 · Lavoro sui casi reali** (90 min): Il Circolo parte da situazioni in cui il team ha già preso decisioni, più casi futuri plausibili. Per ogni caso: dove si colloca nella matrice? Perché? Quale valore radicale orienta la risposta? I valori emergono dal basso, dalla pratica, non vengono imposti dall'alto.
 
-**3 · Compilazione e zone grigie** (45 min) — La matrice viene compilata insieme. I casi su cui il gruppo non converge non si forzano: vanno in zona Sensibile con nota esplicita della divergenza.
+**3 · Compilazione e zone grigie** (45 min): La matrice viene compilata insieme. I casi su cui il gruppo non converge non si forzano: vanno in zona Sensibile con nota esplicita della divergenza.
 
-**4 · Firma** (25 min) — La matrice viene **firmata dal Circolo** come documento di governance. La firma non è cerimonia: è ciò che rende la matrice opponibile quando arriverà la pressione a derogarla.
+**4 · Firma** (25 min): La matrice viene **firmata dal Circolo** come documento di governance. La firma non è cerimonia: è ciò che rende la matrice opponibile quando arriverà la pressione a derogarla.
 
 ## Criteri di riuscita
 

@@ -6,15 +6,17 @@ description: "Autore, libro, repository GitHub, come contribuire, licenza e vers
 
 ## Chi ha scritto questo manuale
 
-**Marco Livi** è un designer e brand strategist con oltre quindici anni di esperienza nel campo dell'identità di marca e della comunicazione strategica. Vive a Pesaro, dove ha fondato Specula, uno studio di consulenza che incrocia il metodo del design speculativo con il lavoro sull'identità profonda di brand e organizzazioni.
+**Marco Livi** è Creative Director e designer speculativo. Vive a Pesaro, dove ha fondato **Specula Future Crafting**: lo studio che incrocia design speculativo, brand strategy e intelligenza artificiale generativa per costruire identità orientate a futuri preferibili, e il luogo in cui questo metodo è nato.
 
-Il nome ha una doppia radice deliberata: speculativo (il design come domanda prima che soluzione) e *specula*, dal latino, torre di osservazione, il luogo da cui si legge l'orizzonte prima di muoversi.
+La sua traiettoria parte da un punto insolito per un creative director: la riga di comando. Laureato in Informatica a Bologna, ha cominciato scrivendo su shell di terminale per amministrare reti, mentre organizzava eventi di cultura elettronica: il suo primo progetto grafico è stato il logo dell'associazione culturale che aveva co-fondato, ancora oggi un punto di riferimento della scena. Il pensiero laterale ha fatto il resto: da lì, oltre vent'anni attraversando tutta la filiera del design, da web designer e digital art director con brand internazionali a interface designer in Tangible, dove ha imparato a costruire linguaggi visivi legati ai valori di progetto, fino a Creative Director in UP Studio, accompagnando le organizzazioni attraverso il cambiamento di identità con un approccio già rivolto ai futuri.
 
-Prima di fondare Specula, ha lavorato come Creative Director in UP Studio, dove ha maturato una competenza specifica nell'accompagnare le organizzazioni attraverso il cambiamento di identità.
+Da quel percorso viene la convinzione che fonda Specula: un brand non è un documento da proteggere, è un sistema che gira, con stati, soglie e rifiuti, e i futuri sono lo strumento più operativo che esista per costruirne la governance. È la traiettoria completa di questo manuale: dal codice all'identità, e ritorno.
 
-Scrive di identità speculativa su Medium. Ha insegnato User Interface Design al Corso Executive di POLI.design (Politecnico di Milano) ed è stato speaker al We Make Future. È stato un workshop sul design speculativo, e un libro consigliato in quella sede, a mettere la prima pietra del metodo Specula.
+Il nome dello studio ha una doppia radice deliberata: speculativo (il design come domanda prima che soluzione) e *specula*, dal latino, torre di osservazione, il luogo da cui si legge l'orizzonte prima di muoversi.
 
-*Fantasticare il futuro* è il suo primo libro.
+Ha insegnato User Interface Design al Corso Executive di POLI.design (Politecnico di Milano), è design mentor su ADPList (Top 100 Mentor 2025) ed è stato speaker al We Make Future. Scrive di identità speculativa su Medium. È stato un workshop sul design speculativo, e un libro consigliato in quella sede, a mettere la prima pietra del metodo Specula.
+
+*Fantasticare il futuro* è il suo primo libro. Gli amici lo chiamano Tito.
 
 ---
 
@@ -40,7 +42,7 @@ L'ecosistema Specula è distribuito su cinque repository pubblici sotto l'accoun
 
 > **Nota sulle licenze:** le licenze sono deliberatamente diverse. `specula-method` e `specula-framework` usano CC BY-SA 4.0 (senza clausola NC) per permettere l'adozione del processo e l'integrazione tecnica anche in contesti commerciali; `specula-skill` usa MIT perché è codice destinato a essere incorporato; il manuale e il BOS usano BY-NC-SA perché descrivono il metodo come pratica professionale. In caso di discrepanza tra questa tabella e i file LICENSE nei repository, fanno fede i repository.
 
-Per la mappa completa dell'ecosistema — chi fa cosa, da dove entrare, quali versioni documenta questo manuale — vedi [Ecosistema Specula](/ecosistema).
+Per la mappa completa dell'ecosistema (chi fa cosa, da dove entrare, quali versioni documenta questo manuale) vedi [Ecosistema Specula](/ecosistema).
 
 ---
 
@@ -77,7 +79,7 @@ La licenza BY-NC-SA non permette usi commerciali. Non accettiamo contributi che 
 
 ## Licenza
 
-Questo manuale è distribuito con licenza **Creative Commons Attribuzione — Non Commerciale — Condividi allo stesso modo 4.0 Internazionale** ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it)).
+Questo manuale è distribuito con licenza **Creative Commons Attribuzione - Non Commerciale - Condividi allo stesso modo 4.0 Internazionale** ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it)).
 
 **Sei libero di:**
 - Condividere: copiare e ridistribuire il materiale in qualsiasi formato

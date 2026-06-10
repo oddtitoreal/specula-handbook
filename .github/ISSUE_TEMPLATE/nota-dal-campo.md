@@ -7,7 +7,7 @@ labels: field-note
 
 **Workshop o protocollo usato**
 
-**Contesto** (tipo di organizzazione, dimensione del gruppo — in forma anonima)
+**Contesto** (tipo di organizzazione, dimensione del gruppo, in forma anonima)
 
 **Cosa ha funzionato**
 

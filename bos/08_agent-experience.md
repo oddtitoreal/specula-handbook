@@ -1,6 +1,6 @@
 ---
 title: "08 · Agent Experience"
-description: "Layer 08 · AGENT EXPERIENCE — come il brand si presenta agli agenti AI che decidono per gli utenti."
+description: "Layer 08 · AGENT EXPERIENCE: come il brand si presenta agli agenti AI che decidono per gli utenti."
 ---
 Come gli output del BOS si traducono in asset di design per agenti AI che agiscono per conto del brand.
 

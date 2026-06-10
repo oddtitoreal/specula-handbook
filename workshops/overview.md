@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Panoramica"
-description: "Dieci protocolli operativi — uno per ogni layer del BOS più memoria ed etica — con durate, partecipanti e output."
+description: "Dieci protocolli operativi, uno per ogni layer del BOS più memoria ed etica, con durate, partecipanti e output."
 ---
 
 Dieci protocolli operativi: uno per ogni layer del BOS, più i due che presidiano le componenti trasversali (Memoria ed Ethical Frame). Ogni protocollo ha durata definita, partecipanti, agenda, criteri di riuscita e un output che alimenta il layer successivo.

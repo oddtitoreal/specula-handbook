@@ -1,6 +1,6 @@
 ---
 title: "01 · World"
-description: "Layer 01 · WORLD — il Signal Scan: segnali deboli, cluster di driver e catene di implicazione."
+description: "Layer 01 · WORLD, il Signal Scan: segnali deboli, cluster di driver e catene di implicazione."
 ---
 Il layer di apertura non cerca conferme. Cerca anomalie.
 

@@ -29,20 +29,20 @@ Il Circolo di Sintesi diviso nei **tre team di scenario** del worldbuilding. Il 
 
 ## Svolgimento
 
-**1 · Prototipazione** (120 min) — Ogni team costruisce due prototipi discorsivi nel proprio scenario:
+**1 · Prototipazione** (120 min): Ogni team costruisce due prototipi discorsivi nel proprio scenario:
    - un **oggetto** che il brand potrebbe produrre in quel futuro;
    - un'**interfaccia conversazionale** del brand in quello scenario: come parla, cosa promette, cosa rifiuta di dire.
 
-**2 · Ethical Gate** (60 min) — Ogni prototipo passa per le tre domande invarianti:
+**2 · Ethical Gate** (60 min): Ogni prototipo passa per le tre domande invarianti:
    - Viola un valore radicale?
    - Introduce pratiche manipolative o estrattive?
    - Crea dipendenze inaccettabili?
 
    Il Gate non è un dibattito: è un checkpoint. La risposta è sì o no, con motivazione scritta.
 
-**3 · Validazione e registrazione** (45 min) — I prototipi che passano entrano nel portfolio validato. Quelli scartati vengono registrati nel [Refusal Register](/governance/refusal-register) con la motivazione valoriale del rifiuto: sono il risultato più prezioso della giornata, non lo scarto.
+**3 · Validazione e registrazione** (45 min): I prototipi che passano entrano nel portfolio validato. Quelli scartati vengono registrati nel [Refusal Register](/governance/refusal-register) con la motivazione valoriale del rifiuto: sono il risultato più prezioso della giornata, non lo scarto.
 
-**4 · Lettura trasversale** (15 min) — Il gruppo osserva il portfolio: cosa resta riconoscibile del brand attraverso i tre mondi? Quel residuo è l'identità.
+**4 · Lettura trasversale** (15 min): Il gruppo osserva il portfolio: cosa resta riconoscibile del brand attraverso i tre mondi? Quel residuo è l'identità.
 
 ## Criteri di riuscita
 

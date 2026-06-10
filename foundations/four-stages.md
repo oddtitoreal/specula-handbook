@@ -1,6 +1,6 @@
 ---
 title: "Il movimento in quattro tappe"
-description: "Le quattro tappe del movimento identitario — Crisi, Visione, Scelta, Custodia — e perché l'ordine non si salta."
+description: "Le quattro tappe del movimento identitario (Crisi, Visione, Scelta, Custodia) e perché l'ordine non si salta."
 ---
 > *→ Le quattro tappe corrispondono alle quattro parti del libro.*
 

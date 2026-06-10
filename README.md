@@ -30,19 +30,19 @@ La mappa completa è nella pagina [Ecosistema](https://speculafuturecrafting.min
 
 ```
 specula-handbook/
-├── docs.json            — configurazione Mintlify (navigazione, tema)
-├── index.mdx            — homepage
-├── introduction.md      — cos'è Specula
-├── quickstart.md        — percorsi di lettura
-├── ecosistema.md        — mappa dei repository
-├── foundations/         — fondamenti del metodo
-├── bos/                 — Brand Operating System (7 layer + trasversali)
-├── engagement/          — modelli di ingaggio + caso studio
-├── workshops/           — i 10 protocolli operativi
-├── governance/          — Playbook, Refusal Register, Definition of Done
-├── risorse.md           — autore, libro, licenza, versioning
-├── glossario.md         — terminologia canonica IT/EN
-└── 00_Meta/             — materiali di lavoro interni (non pubblicati in navigazione)
+├── docs.json            · configurazione Mintlify (navigazione, tema)
+├── index.mdx            · homepage
+├── introduction.md      · cos'è Specula
+├── quickstart.md        · percorsi di lettura
+├── ecosistema.md        · mappa dei repository
+├── foundations/         · fondamenti del metodo
+├── bos/                 · Brand Operating System (7 layer + trasversali)
+├── engagement/          · modelli di ingaggio + caso studio
+├── workshops/           · i 10 protocolli operativi
+├── governance/          · Playbook, Refusal Register, Definition of Done
+├── risorse.md           · autore, libro, licenza, versioning
+├── glossario.md         · terminologia canonica IT/EN
+└── 00_Meta/             · materiali di lavoro interni (non pubblicati in navigazione)
 ```
 
 ## Contribuire
@@ -64,5 +64,5 @@ Versioning basato sulla data: `YYYY.MM`. Versione corrente: **2026.06**. Le modi
 
 ## Licenza
 
-[CC BY-NC-SA 4.0](LICENSE.md) — © Marco Livi / Specula Future Crafting.
+[CC BY-NC-SA 4.0](LICENSE.md), © Marco Livi / Specula Future Crafting.
 Il libro *Fantasticare il futuro* è il mito fondativo del metodo; questo manuale è il filtro operativo.

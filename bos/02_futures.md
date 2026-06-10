@@ -1,6 +1,6 @@
 ---
 title: "02 · Futures"
-description: "Layer 02 · FUTURES — tre scenari divergenti resi concreti come vita quotidiana."
+description: "Layer 02 · FUTURES: tre scenari divergenti resi concreti come vita quotidiana."
 ---
 I segnali diventano scenari. Non previsioni, non proiezioni lineari: mondi divergenti costruiti combinando driver in tensione tra loro.
 

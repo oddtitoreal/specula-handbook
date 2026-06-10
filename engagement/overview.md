@@ -1,6 +1,6 @@
 ---
 title: "Modelli di Ingaggio"
-description: "Quattro modelli di ingaggio — Audit, Full Journey, Brand Nuovo, Guardian Loop — per quattro punti di partenza diversi."
+description: "Quattro modelli di ingaggio (Audit, Full Journey, Brand Nuovo, Guardian Loop) per quattro punti di partenza diversi."
 ---
 
 Quattro percorsi tipo, dal primo contatto al presidio continuativo. Ogni modello ha un trigger specifico, una durata e un insieme di layer attraversati. Il modello giusto dipende dal punto di partenza, non dall'ambizione.
@@ -23,6 +23,6 @@ Quattro percorsi tipo, dal primo contatto al presidio continuativo. Ogni modello
 
 Ogni ingaggio, qualunque sia il modello, inizia con il [Brief sotto stress](/workshops/brief-sotto-stress) e con la verifica delle [condizioni della soglia](/foundations/threshold-conditions), e si chiude rispetto a una [Definition of Done](/governance/definition-of-done) concordata all'inizio.
 
-**Nota per chi arriva dai repository:** `specula-method` e `specula-bos` documentano tre modelli (Audit, Full Journey, Guardian). Brand Nuovo è un'estensione introdotta da questo manuale — vedi [Il Metodo e il BOS](/foundations/metodo-e-bos).
+**Nota per chi arriva dai repository:** `specula-method` e `specula-bos` documentano tre modelli (Audit, Full Journey, Guardian). Brand Nuovo è un'estensione introdotta da questo manuale: vedi [Il Metodo e il BOS](/foundations/metodo-e-bos).
 
 → Come funziona nella pratica: [il caso studio](/engagement/caso-studio).

@@ -1,6 +1,6 @@
 ---
 title: "05 · Strategy"
-description: "Layer 05 · STRATEGY — dal portfolio di prototipi validati al Protocollo Strategico."
+description: "Layer 05 · STRATEGY: dal portfolio di prototipi validati al Protocollo Strategico."
 ---
 I prototipi validati diventano direzione. Ma non un piano.
 

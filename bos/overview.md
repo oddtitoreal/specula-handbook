@@ -65,8 +65,8 @@ Tre componenti attraversano tutti e sette i layer:
 | Ethical Frame | Open source | `specula-bos` |
 | Memory Architecture | Open source | `specula-bos` |
 | Runtime specification (schemi JSON) | Open source | `specula-framework` |
-| Specula Agent (implementazione) | Proprietario | — |
-| Brand Radar (implementazione) | Proprietario | — |
+| Specula Agent (implementazione) | Proprietario | n/d |
+| Brand Radar (implementazione) | Proprietario | n/d |
 
 L'architettura è aperta. Le implementazioni specifiche che Specula porta nei percorsi client sono proprietarie.
 

@@ -1,6 +1,6 @@
 ---
 title: "06 · Governance"
-description: "Layer 06 · GOVERNANCE — il Brand Radar e le soglie che proteggono la coerenza nel tempo."
+description: "Layer 06 · GOVERNANCE: il Brand Radar e le soglie che proteggono la coerenza nel tempo."
 ---
 Il layer che trasforma il BOS da progetto a sistema permanente.
 

@@ -1,6 +1,6 @@
 ---
 title: "03 · Identity"
-description: "Layer 03 · IDENTITY — la Brand Archaeology separa i valori radicali da quelli contingenti."
+description: "Layer 03 · IDENTITY: la Brand Archaeology separa i valori radicali da quelli contingenti."
 ---
 Il layer più delicato del sistema. L'errore più comune è trattarlo come un esercizio di brand vision: "chi vogliamo essere". Il Layer 03 fa la domanda opposta: "chi siamo già stati, nelle decisioni che contano?"
 

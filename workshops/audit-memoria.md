@@ -3,7 +3,7 @@ title: "Audit della Memoria"
 description: "2 ore trimestrali di revisione sistematica dei cinque domini della Memory Architecture."
 ---
 
-**Componente:** [Memory Architecture](/bos/memory-architecture) — trasversale
+**Componente:** [Memory Architecture](/bos/memory-architecture), trasversale
 **Durata:** 2 ore
 **Frequenza:** trimestrale (parte del Sensemaking trimestrale del Circolo)
 
@@ -29,9 +29,9 @@ Il Circolo di Sintesi, convocato dal **Brand Alchemist**, che guida la revisione
 
 ## Svolgimento
 
-**1 · Verifica delle azioni precedenti** (15 min) — Le azioni dell'audit scorso sono state completate? Se no, perché?
+**1 · Verifica delle azioni precedenti** (15 min): Le azioni dell'audit scorso sono state completate? Se no, perché?
 
-**2 · Revisione dei cinque domini** (75 min, ~15 min ciascuno) — Il Brand Alchemist guida il Circolo con le domande di verifica:
+**2 · Revisione dei cinque domini** (75 min, ~15 min ciascuno): Il Brand Alchemist guida il Circolo con le domande di verifica:
 
 | Dominio | Domande di verifica |
 |---|---|
@@ -41,9 +41,9 @@ Il Circolo di Sintesi, convocato dal **Brand Alchemist**, che guida la revisione
 | **Refusal Memory** | I rifiuti registrati sono ancora validi? Ci sono nuove pressioni da registrare? |
 | **Context Memory** | Il contesto esterno richiede di aggiornare gli scenari di riferimento? |
 
-**3 · Coerenza trasversale** (15 min) — I domini si parlano? Una decisione registrata in Decision Memory che contraddice un rifiuto in Refusal Memory è il segnale d'allarme più serio che questo audit possa produrre.
+**3 · Coerenza trasversale** (15 min): I domini si parlano? Una decisione registrata in Decision Memory che contraddice un rifiuto in Refusal Memory è il segnale d'allarme più serio che questo audit possa produrre.
 
-**4 · Piano di aggiornamento** (15 min) — Ogni incoerenza rilevata diventa un'azione con owner e scadenza.
+**4 · Piano di aggiornamento** (15 min): Ogni incoerenza rilevata diventa un'azione con owner e scadenza.
 
 ## Criteri di riuscita
 

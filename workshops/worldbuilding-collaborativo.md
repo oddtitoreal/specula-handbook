@@ -29,20 +29,20 @@ Il Circolo di Sintesi diviso in **tre team, uno per scenario**. Ogni team deve e
 
 ## Svolgimento
 
-**1 · Matrice dei driver** (30 min) — Il facilitatore presenta la matrice dei driver emersi dalla mappa. Il gruppo concorda quali forze sono strutturali e quali ambientali.
+**1 · Matrice dei driver** (30 min): Il facilitatore presenta la matrice dei driver emersi dalla mappa. Il gruppo concorda quali forze sono strutturali e quali ambientali.
 
-**2 · Assegnazione e immersione** (15 min) — Il gruppo si divide nei tre team. Ogni team riceve la propria traccia di scenario e la porta al 2030.
+**2 · Assegnazione e immersione** (15 min): Il gruppo si divide nei tre team. Ogni team riceve la propria traccia di scenario e la porta al 2030.
 
-**3 · Costruzione dello scenario** (90 min) — Ogni team scrive:
+**3 · Costruzione dello scenario** (90 min): Ogni team scrive:
    - una *day in the life* di un utente tipo in quello scenario al 2030;
    - tre headline di giornale plausibili in quel mondo;
    - gli indicatori di materializzazione: come riconosceresti, oggi, che questo scenario sta diventando reale.
 
-**4 · Presentazioni incrociate** (45 min) — I tre team si presentano reciprocamente gli scenari. Le domande ammesse sono di abitabilità ("come funziona X in questo mondo?"), non di plausibilità ("ma succederà davvero?").
+**4 · Presentazioni incrociate** (45 min): I tre team si presentano reciprocamente gli scenari. Le domande ammesse sono di abitabilità ("come funziona X in questo mondo?"), non di plausibilità ("ma succederà davvero?").
 
-**5 · White spaces** (45 min) — Insieme, i team identificano i futuri che nessun competitor sta presidiando in modo credibile. È il passaggio che nei repo del metodo corrisponde alla fase 1.5, *Competitive Futures Mapping*: la mappa della concorrenza si fa sulle traiettorie speculative, non sulle campagne presenti.
+**5 · White spaces** (45 min): Insieme, i team identificano i futuri che nessun competitor sta presidiando in modo credibile. È il passaggio che nei repo del metodo corrisponde alla fase 1.5, *Competitive Futures Mapping*: la mappa della concorrenza si fa sulle traiettorie speculative, non sulle campagne presenti.
 
-**6 · Chiusura** (15 min) — Gli scenari vengono consolidati nel formato di archivio.
+**6 · Chiusura** (15 min): Gli scenari vengono consolidati nel formato di archivio.
 
 ## Criteri di riuscita
 

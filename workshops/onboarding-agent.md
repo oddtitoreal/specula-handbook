@@ -29,17 +29,17 @@ Il Circolo di Sintesi. **Sessione tecnica: richiede accesso al sistema** e una f
 
 ## Svolgimento
 
-**1 · Caricamento** (30 min) — Il Brand Alchemist carica nella memoria dell'Agent i quattro artefatti. Ogni caricamento viene verificato con una domanda di controllo ("quali sono le red lines?").
+**1 · Caricamento** (30 min): Il Brand Alchemist carica nella memoria dell'Agent i quattro artefatti. Ogni caricamento viene verificato con una domanda di controllo ("quali sono le red lines?").
 
-**2 · Test su casi reali** (60 min) — Il team presenta all'Agent le cinque decisioni reali. Per ciascuna si valuta:
+**2 · Test su casi reali** (60 min): Il team presenta all'Agent le cinque decisioni reali. Per ciascuna si valuta:
    - l'Agent avrebbe segnalato coerenza o drift?
    - con quale motivazione?
 
    Le risposte vengono confrontate con le decisioni effettivamente prese e con il giudizio retrospettivo del Circolo.
 
-**3 · Affinamento** (20 min) — Le divergenze diventano materiale per correggere prompt e memoria: una divergenza può rivelare un errore dell'Agent, ma anche un drift reale che il Circolo non aveva visto. Entrambi i casi vanno verbalizzati.
+**3 · Affinamento** (20 min): Le divergenze diventano materiale per correggere prompt e memoria: una divergenza può rivelare un errore dell'Agent, ma anche un drift reale che il Circolo non aveva visto. Entrambi i casi vanno verbalizzati.
 
-**4 · Approvazione** (10 min) — Il Circolo approva formalmente la configurazione prima che l'Agent diventi operativo. Senza approvazione esplicita, l'Agent resta in test.
+**4 · Approvazione** (10 min): Il Circolo approva formalmente la configurazione prima che l'Agent diventi operativo. Senza approvazione esplicita, l'Agent resta in test.
 
 ## Criteri di riuscita
 
