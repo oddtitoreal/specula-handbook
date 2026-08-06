@@ -33,6 +33,8 @@ Il Circolo di Sintesi diviso nei **tre team di scenario** del worldbuilding. Il 
    - un **oggetto** che il brand potrebbe produrre in quel futuro;
    - un'**interfaccia conversazionale** del brand in quello scenario: come parla, cosa promette, cosa rifiuta di dire.
 
+   Nel lessico dei Design Futures questi sono **provotype** (provoke + prototype): artefatti costruiti per provocare, non per validare una soluzione. Vanno tenuti **autoesplicativi** — devono reggere da soli, senza che chi li ha fatti li spieghi: se hanno bisogno di una guida, non stanno ancora rivelando niente. Vedi [Provotype](/glossario) e [Il lignaggio](/foundations/lignaggio).
+
 **2 · Ethical Gate** (60 min): Ogni prototipo passa per le tre domande invarianti:
    - Viola un valore radicale?
    - Introduce pratiche manipolative o estrattive?

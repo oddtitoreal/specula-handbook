@@ -10,7 +10,7 @@ Mappa interna dei sorgenti. La presentazione del repo è in [README.md](README.m
 | `introduction.md` | Cos'è Specula | ✓ |
 | `quickstart.md` | Percorsi di lettura per i tre pubblici | ✓ |
 | `ecosistema.md` | Mappa dei repository, licenze, versioni documentate | ✓ |
-| `foundations/` | Tesi sottrattiva · Quattro tappe · Condizioni della soglia · Metodo e BOS (mappatura 6 fasi ↔ 7 layer) | ✓ |
+| `foundations/` | Tesi sottrattiva · Lignaggio (Design Futures) · Quattro tappe · Condizioni della soglia · Metodo e BOS (mappatura 6 fasi ↔ 7 layer) | ✓ |
 | `bos/` | Overview · 7 layer + Agent Experience · Ethical Frame · Memory Architecture · Circolo di Sintesi | ✓ |
 | `engagement/` | Overview · Full Journey · Audit · Brand Nuovo · Guardian Loop · Caso studio | ✓ |
 | `workshops/` | Overview + 10 protocolli replicabili | ✓ |
