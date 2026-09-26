@@ -9,6 +9,17 @@ Il versioning usa il formato `YYYY.MM`.
 
 ## [Non rilasciato]
 
+### Allineamento fasi, workshop e sito · 2026-09-26
+
+**Modificato**
+- `foundations/metodo-e-bos.md`: la mappatura canonica aggiunge la colonna dei workshop con le durate, per ogni fase. La fase 5 comprende Calibrazione del Radar (con la configurazione del Guardian Loop) e Matrice Comportamentale; la fase 6 comprende Onboarding dell'Agent
+- `foundations/metodo-e-bos.md`: nuova sezione "Ordine dei workshop e ordine delle fasi". Chiarisce che la prima Matrice Comportamentale si svolge a chiusura del Full Journey e appartiene alla fase 5; Audit della Memoria e Matrice diventano poi ricorrenti nel Guardian Loop
+- `foundations/metodo-e-bos.md`: le componenti trasversali sono tre (Ethical Frame, Memory Architecture, Circolo di Sintesi), allineate a `bos/overview`. La versione precedente ne elencava due
+
+**Note**
+- Il sito di Specula (oggi marcolivi.it/specula; pagine Metodo, Servizi, Casi, Test della tensione) è allineato a questa versione: sei fasi con i workshop corrispondenti, Refusal Register come termine unico
+- Il Workshop Kit su FigJam (undici canvas, stato pilota, testato a ritroso su due progetti reali) implementa i protocolli dei workshop 0–9 e aggiunge un WS10, Carta di Allineamento (binario AX, 3 h), non ancora documentato in questo manuale. Il kit resta un materiale di lavoro: le modifiche ai protocolli passano prima da questo manuale
+
 ### Revisione strutturale ed editoriale · 2026-06-10
 
 **Aggiunto**
