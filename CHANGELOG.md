@@ -29,7 +29,7 @@ Il versioning usa il formato `YYYY.MM`.
 
 **Note**
 - Il sito di Specula (oggi marcolivi.it/specula; pagine Metodo, Servizi, Casi, Test della tensione) è allineato a questa versione: sei fasi con i workshop corrispondenti, Refusal Register come termine unico
-- Il Workshop Kit su FigJam (undici canvas, stato pilota, testato a ritroso su due progetti reali) implementa i protocolli dei workshop 0–9 e aggiunge un WS10, Carta di Allineamento (binario AX, 3 h), non ancora documentato in questo manuale. Il kit resta un materiale di lavoro: le modifiche ai protocolli passano prima da questo manuale
+- Il Workshop Kit su FigJam (undici canvas, stato pilota, testato a ritroso su due progetti reali) implementa i protocolli dei workshop 0–9 e il WS10, Carta di Allineamento (binario AX, 3 h), documentato nella voce successiva di questo changelog. Il kit resta un materiale di lavoro: le modifiche ai protocolli passano prima da questo manuale
 
 ### Revisione strutturale ed editoriale · 2026-06-10
 
