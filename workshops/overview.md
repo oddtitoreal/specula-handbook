@@ -1,9 +1,9 @@
 ---
 title: "Workshop: Panoramica"
-description: "Dieci protocolli operativi, uno per ogni layer del BOS più memoria ed etica, con durate, partecipanti e output."
+description: "Dieci protocolli operativi, uno per ogni layer del BOS più memoria ed etica, e un undicesimo pilota per i brand con agenti AI, con durate, partecipanti e output."
 ---
 
-Dieci protocolli operativi: uno per ogni layer del BOS, più i due che presidiano le componenti trasversali (Memoria ed Ethical Frame). Ogni protocollo ha durata definita, partecipanti, agenda, criteri di riuscita e un output che alimenta il layer successivo.
+Dieci protocolli operativi: uno per ogni layer del BOS, più i due che presidiano le componenti trasversali (Memoria ed Ethical Frame). Un undicesimo, pilota, serve i brand con agenti AI già in produzione. Ogni protocollo ha durata definita, partecipanti, agenda, criteri di riuscita e un output che alimenta il layer successivo.
 
 ## La sequenza
 
@@ -19,8 +19,9 @@ Dieci protocolli operativi: uno per ogni layer del BOS, più i due che presidian
 | 7 | [Onboarding dell'Agent](/workshops/onboarding-agent) | 07 · INTERFACE | 2 h | Specula Agent operativo |
 | 8 | [Audit della Memoria](/workshops/audit-memoria) | Memoria (trasversale) | 2 h · trimestrale | Memory Audit Report |
 | 9 | [Matrice Comportamentale](/workshops/matrice-comportamentale) | Ethical Frame (trasversale) | 3 h · annuale | Brand Governance Playbook |
+| 10 | [Carta di Allineamento](/workshops/carta-allineamento) | Binario AX, pilota (trasversale) | 3 h | Contratto operativo per gli agenti che agiscono a nome del brand |
 
-I workshop 0–7 si attraversano in sequenza dentro un [Full Journey](/engagement/full-journey); 8 e 9 sono ricorrenti e accompagnano la vita del sistema. La sequenza non si salta: ogni output è il prerequisito del workshop successivo.
+I workshop 0–7 si attraversano in sequenza dentro un [Full Journey](/engagement/full-journey); 8 e 9 sono ricorrenti e accompagnano la vita del sistema. Il 10, [Carta di Allineamento](/workshops/carta-allineamento), è un'estensione pilota per i brand con agenti AI in produzione: non fa parte del metodo in sei fasi e resta in validazione. La sequenza 0–9 non si salta: ogni output è il prerequisito del workshop successivo.
 
 ## Come leggere i protocolli
 

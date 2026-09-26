@@ -49,4 +49,6 @@ Proprietario: configurazioni AI e librerie di prompt, librerie di scenari, strum
 
 Questa distinzione non è una riserva commerciale travestita: è ciò che rende il metodo verificabile senza renderlo banalizzabile. Chiunque può controllare *come* funziona Specula; applicarlo bene richiede il percorso, non il download.
 
+[specula.design](https://specula.design) è la porta per chi decide e acquista: posizionamento, casi, primo contatto. Questo manuale è il riferimento per chi facilita e integra il metodo: il sito rimanda qui per chi vuole vedere come funziona.
+
 → Come le sei fasi del metodo costruiscono i sette layer: [Il Metodo e il BOS](/foundations/metodo-e-bos)

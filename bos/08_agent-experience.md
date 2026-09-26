@@ -24,6 +24,10 @@ Un brand che ha attraversato il BOS ha un DNA preciso, un Refusal Register, un P
 
 Tutte le decisioni strategiche restano umane. L'agente amplifica, non sostituisce. Il Brand Alchemist è l'unica figura con autorità di modificare le Policy e i Contracts che governano l'agente.
 
+## Workshop
+
+Gli asset AX si costruiscono nel workshop pilota [Carta di Allineamento](/workshops/carta-allineamento): 3 ore, binario AX, non ancora parte del metodo in sei fasi.
+
 ## Nota per il manuale
 
 Questo layer è il più giovane dell'architettura ed è in evoluzione attiva. Il repo `specula-bos/docs/09_agent-experience.md` è la fonte aggiornata.

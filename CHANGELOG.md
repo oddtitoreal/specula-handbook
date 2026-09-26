@@ -9,6 +9,17 @@ Il versioning usa il formato `YYYY.MM`.
 
 ## [Non rilasciato]
 
+### Workshop pilota Carta di Allineamento e porta specula.design · 2026-09-26
+
+**Aggiunto**
+- `workshops/carta-allineamento.md`: undicesimo workshop, pilota, binario AX. Documenta il protocollo con cui il Layer 08 · Agent Experience costruisce le sue Brand Policy, Skills e Contracts. Non fa parte del metodo in sei fasi
+- `ecosistema.md`: riga su specula.design come porta per chi decide e acquista, con rimando al manuale per chi facilita e integra
+
+**Modificato**
+- `workshops/overview.md`: la tabella e l'introduzione registrano l'undicesimo workshop pilota
+- `bos/08_agent-experience.md`: rimando al nuovo workshop
+- `docs.json`: `workshops/carta-allineamento` in navigazione
+
 ### Allineamento fasi, workshop e sito · 2026-09-26
 
 **Modificato**
