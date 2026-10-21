@@ -98,4 +98,4 @@ Il manuale usa versioning basato sulla data: `YYYY.MM` (es. `2026.06`).
 
 Le versioni sono taggate sul repo GitHub. Le modifiche rilevanti tra versioni sono documentate nel [CHANGELOG](https://github.com/oddtitoreal/specula-handbook/blob/main/CHANGELOG.md).
 
-**Versione corrente:** 2026.06
+**Versione corrente:** 2026.11

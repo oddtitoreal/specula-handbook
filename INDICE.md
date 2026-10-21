@@ -14,7 +14,7 @@ Mappa interna dei sorgenti. La presentazione del repo è in [README.md](README.m
 | `bos/` | Overview · 7 layer + Agent Experience · Ethical Frame · Memory Architecture · Circolo di Sintesi | ✓ |
 | `engagement/` | Overview · Full Journey · Audit · Brand Nuovo · Guardian Loop · Caso studio | ✓ |
 | `workshops/` | Overview + 10 protocolli replicabili | ✓ |
-| `governance/` | Brand Governance Playbook · Refusal Register · Definition of Done | ✓ |
+| `governance/` | Brand Governance Playbook · Refusal Register · Decision Log · Definition of Done | ✓ |
 | `risorse.md` | Autore, libro, repo, contributing, licenza, versioning | ✓ |
 | `glossario.md` | Terminologia canonica IT/EN | ✓ |
 

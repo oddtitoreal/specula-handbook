@@ -10,7 +10,7 @@ La Memory Architecture è ciò che trasforma il BOS da framework a sistema. Senz
 
 **Brand Memory**: il DNA, i valori immutabili, le tensioni etiche, i valori fragili. Il risultato del Layer 03 · IDENTITY.
 
-**Decision Memory**: le scelte strategiche prese, con il contesto in cui sono state prese. Alimenta il Brand Radar nel Layer 06.
+**Decision Memory**: le scelte strategiche prese, con il contesto in cui sono state prese. È il [Decision Log](/governance/decision-log) del sistema: per ogni decisione registra il criterio applicato, l'effetto atteso, la data di revisione e, alla revisione, l'effetto osservato. Alimenta il Brand Radar nel Layer 06.
 
 **Refusal Memory**: sinonimo di Refusal Register. Le forme rifiutate, i motivi, il contesto. (→ [Refusal Register](/governance/refusal-register))
 

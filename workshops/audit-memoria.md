@@ -37,7 +37,7 @@ Il Circolo di Sintesi, convocato dal **Brand Alchemist**, che guida la revisione
 |---|---|
 | **Scenario Memory** | Gli scenari sono ancora plausibili? Ci sono segnali che richiedono aggiornamento? |
 | **Brand Memory** | Il DNA riflette l'evoluzione del brand? Sono emersi nuovi archetipi? |
-| **Decision Memory** | Le ultime decisioni sono coerenti con le precedenti? C'è drift silenzioso? |
+| **Decision Memory** | Le ultime decisioni sono coerenti con le precedenti? C'è drift silenzioso? Per le decisioni arrivate alla data di revisione, l'effetto osservato è registrato accanto a quello atteso? Le derive del trimestre sono classificate con la regola usata? |
 | **Refusal Memory** | I rifiuti registrati sono ancora validi? Ci sono nuove pressioni da registrare? |
 | **Context Memory** | Il contesto esterno richiede di aggiornare gli scenari di riferimento? |
 
@@ -59,4 +59,4 @@ Il Circolo di Sintesi, convocato dal **Brand Alchemist**, che guida la revisione
 
 ## Output e destinazione
 
-**Memory Audit Report** con stato dei cinque domini, incoerenze rilevate e piano di aggiornamento. Entra nel Sensemaking trimestrale del Circolo e, quando rivela divergenze strutturali, contribuisce al trigger di [Re-Speculation](/engagement/guardian-loop).
+**Memory Audit Report** con stato dei cinque domini, incoerenze rilevate, criteri da rivedere e piano di aggiornamento. Entra nel Sensemaking trimestrale del Circolo e, quando rivela divergenze strutturali, contribuisce al trigger di [Re-Speculation](/engagement/guardian-loop).

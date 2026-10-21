@@ -37,15 +37,18 @@ Il Circolo di Sintesi. **Richiede una figura con responsabilità operativa**: se
    - la frequenza di rilevazione;
    - la soglia di allerta (quando scatta il segnale).
 
-**3 · Protocollo di escalation** (30 min): Cosa succede quando un indicatore scende sotto soglia: chi viene coinvolto, in quanto tempo, con quale mandato. Un'allerta senza protocollo è solo un grafico rosso.
+   Le soglie pendono verso la riapertura: un allarme a vuoto costa meno di una reazione tardiva. Oltre alle soglie dei singoli indicatori, il Circolo definisce le **combinazioni** che fanno scattare un'allerta anche quando nessun indicatore ha superato la propria soglia.
 
-**4 · Configurazione del Guardian Loop** (15 min): Il trigger strutturale viene fissato: quando per **due cicli consecutivi** i segnali divergono dagli scenari di riferimento, il sistema propone la [Re-Speculation](/engagement/guardian-loop).
+**3 · Protocollo di escalation** (30 min): Cosa succede quando scatta un'allerta: chi viene coinvolto, in quanto tempo, con quale mandato. I tempi si tarano sulla velocità dei segnali che l'indicatore osserva: alcuni eventi corrono più veloci delle riunioni. Un'allerta senza protocollo è solo un grafico rosso.
+
+**4 · Configurazione del Guardian Loop** (15 min): Il trigger strutturale viene fissato: quando per **due cicli consecutivi** i segnali divergono dagli scenari di riferimento, il sistema propone la [Re-Speculation](/engagement/guardian-loop). Si concordano anche le regole di [classificazione delle derive](/governance/decision-log): errore, modello superato, apprendimento.
 
 ## Criteri di riuscita
 
 - Ogni asse è riconducibile a un valore radicale specifico, non a una metrica di marketing generica.
 - Ogni indicatore ha una fonte dati esistente e un owner.
 - Il protocollo di escalation indica persone e tempi, non "il management valuterà".
+- Almeno una regola di combinazione tra indicatori è definita.
 
 ## Errori comuni
 
@@ -55,4 +58,4 @@ Il Circolo di Sintesi. **Richiede una figura con responsabilità operativa**: se
 
 ## Output e destinazione
 
-**Brand Radar personalizzato** (cinque assi, indicatori, soglie, escalation) e **Guardian Loop configurato**. È l'infrastruttura del [Layer 06](/bos/06_governance) e la condizione d'ingresso per l'[Onboarding dell'Agent](/workshops/onboarding-agent).
+**Brand Radar personalizzato** (cinque assi, indicatori, soglie, combinazioni, escalation) e **Guardian Loop configurato**. È l'infrastruttura del [Layer 06](/bos/06_governance) e la condizione d'ingresso per l'[Onboarding dell'Agent](/workshops/onboarding-agent).

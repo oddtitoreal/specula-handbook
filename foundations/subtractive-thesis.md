@@ -24,8 +24,14 @@ La sottrazione ha anche un costo relazionale. Le organizzazioni sono fatte di pe
 
 Il Layer 03 · IDENTITY del BOS non è un esercizio di brand vision. È un'archeologia: si raccolgono tracce di cosa l'organizzazione ha già scelto di essere (nelle decisioni difficili, nei rifiuti, nei momenti in cui ha tenuto una posizione sotto pressione) e si verifica cosa regge quando viene messo a contatto con i futuri.
 
-Quello che regge nei tre scenari è il DNA. Quello che collassa è stratificazione.
+Quello che regge nei quattro scenari è il DNA. Quello che collassa è stratificazione.
 
 Il Refusal Register documenta questo processo nel tempo: ogni rifiuto è una traccia di cosa l'organizzazione non è, e quindi di cosa è. L'identità si costruisce anche per negazione.
+
+## L'ambito della tesi
+
+La tesi presuppone una storia. Un'organizzazione che ha già preso decisioni sotto pressione ha lasciato tracce, e il DNA si ricava da quelle: è il caso del [Full Journey](/engagement/full-journey).
+
+Per chi nasce, o rinasce da zero, la sottrazione cambia oggetto e opera tra identità possibili. Nel percorso [Brand Nuovo](/engagement/brand-nuovo) i fondatori dichiarano più valori di quanti l'organizzazione potrà sostenere; il Value Stress Test toglie quelli che reggono solo come aspirazione. Il gesto resta lo stesso: si parte da più di quanto serve e si toglie ciò che non regge.
 
 → [Layer 03 · IDENTITY](/bos/03_identity) · [Workshop: Archeologia del Brand](/workshops/archeologia-brand) · [Refusal Register](/governance/refusal-register)

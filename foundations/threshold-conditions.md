@@ -23,6 +23,8 @@ Quando il mandato manca o è delegato troppo in basso, il processo produce mater
 
 *Come si verifica:* Nel Brief sotto stress si chiede esplicitamente chi ha il mandato. Se la risposta è vaga ("lo decidiamo insieme", "dipende dal consiglio"), la prima azione è chiarire la struttura decisionale prima di procedere.
 
+*Evidenza da registrare:* chi firma l'ingaggio decide su brand e budget e partecipa al processo.
+
 ---
 
 ## 2. Crisi riconosciuta
@@ -34,6 +36,8 @@ Non è sufficiente il disagio. Serve il riconoscimento: la consapevolezza esplic
 La crisi non riconosciuta produce resistenza passiva durante il processo: il Circolo di Sintesi delibera, ma le decisioni vengono sistematicamente ammorbidite nell'implementazione. Si arriva al Speculative Brand DNA ma non si riesce a costruire un Refusal Register reale perché nessuno vuole davvero rifiutare niente.
 
 *Come si verifica:* La domanda diretta nel Brief sotto stress: *cosa succederebbe se non cambiaste niente?* Se la risposta è "probabilmente niente di grave", la crisi non è ancora riconosciuta, oppure non è abbastanza reale da giustificare il percorso.
+
+*Evidenza da registrare:* l'organizzazione nomina la crisi in un documento interno (un verbale, un piano, una lettera). Quasi ogni organizzazione vive dentro una crisi strutturale del proprio settore o del proprio tempo; la condizione chiede che questa riconosca la propria.
 
 ---
 
@@ -47,7 +51,13 @@ La sottrazione ha un costo specifico: riconosce che certe scelte passate erano s
 
 *Come si verifica:* Nel Brief sotto stress si chiede: *c'è qualcosa che l'organizzazione ha sempre fatto o detto che potrebbe risultare incompatibile con il DNA che emerge?* Se la risposta è "non lo so ancora": è accettabile. Se la risposta implicita è "no, sicuramente no": la disponibilità alla sottrazione non c'è.
 
+*Evidenza da registrare:* il cliente indica in anticipo almeno una cosa che è disposto a togliere.
+
 ---
+
+## La scheda di soglia
+
+Le tre evidenze si registrano in una scheda, compilata negli incontri che precedono il Brief sotto stress e archiviata per ogni ingaggio, anche per quelli che non partono. La scheda rende le condizioni verificabili prima di cominciare: dopo, l'esito di un percorso non si può più spiegare con una condizione che nessuno aveva controllato.
 
 ## Quando una condizione manca
 

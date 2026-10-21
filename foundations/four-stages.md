@@ -28,7 +28,7 @@ La crisi è la condizione di ingresso. Specula non produce cambiamento identitar
 
 Il futuro come strumento di chiarezza, non come previsione.
 
-La visione in Specula non è uno statement aspirazionale: è uno spazio di test. Si costruiscono tre scenari di futuro plausibile e si chiede: *cosa vuole essere il brand in ciascuno di questi mondi?* La tensione tra scenari rivela cosa è veramente immutabile e cosa è circostanziale.
+La visione in Specula non è uno statement aspirazionale: è uno spazio di test. Si costruiscono quattro scenari divergenti, con una regola che ne garantisce la divergenza, e si chiede: *cosa vuole essere il brand in ciascuno di questi mondi?* La tensione tra scenari rivela cosa è veramente immutabile e cosa è circostanziale.
 
 Questo è il rovesciamento fondamentale rispetto alla brand strategy tradizionale: non si parte dal passato per proiettarsi nel futuro, si usano i futuri per capire cosa del passato vale davvero la pena di portare avanti.
 

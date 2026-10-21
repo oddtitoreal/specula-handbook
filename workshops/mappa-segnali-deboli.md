@@ -25,17 +25,18 @@ Il Circolo di Sintesi. La composizione conta più del numero: servono **competen
 
 - **Compito a monte (obbligatorio):** ogni partecipante arriva con cinque segnali deboli osservati nel proprio dominio, in forma strutturata: cosa ha visto, dove, perché potrebbe contare. Senza questo lavoro preliminare il workshop scade in brainstorming.
 - Un formato condiviso per la schedatura del segnale (titolo, fonte, dominio, data).
+- La **griglia di raccolta dichiarata**: i cinque domini disposti attorno alla domanda di ricerca fissata nel [Brief sotto stress](/workshops/brief-sotto-stress).
 - Strumento AI configurato per l'analisi delle correlazioni, con il corpus dei segnali caricabile in sessione.
 
 ## Svolgimento
 
 **1 · Deposito dei segnali** (30 min): Ogni partecipante presenta i propri cinque segnali, senza discussione. Solo domande di chiarimento.
 
-**2 · Round 1: classificazione** (45 min): Il gruppo classifica i segnali per dominio (culturale, tecnologico, normativo, economico, ambientale) e per potenziale di impatto, non per certezza: un segnale debole classificato per certezza è già un trend, e i trend non servono qui.
+**2 · Round 1: classificazione** (45 min): Il gruppo colloca i segnali nella griglia, per dominio (culturale, tecnologico, normativo, economico, ambientale) e per distanza dalla domanda di ricerca, e li classifica per potenziale di impatto, non per certezza: un segnale debole classificato per certezza è già un trend, e i trend non servono qui.
 
 **3 · Round 2: catene di implicazione** (60 min): Per ogni cluster: se questa forza si amplifica, cosa cambia? Per chi? In quale sequenza? Il gruppo traccia come ogni segnale potrebbe influenzare gli altri e cosa implicherebbe per il brand se si consolidasse.
 
-**4 · Analisi AI delle correlazioni** (30 min): L'AI elabora il corpus per identificare correlazioni non ovvie tra segnali di domini diversi. Il gruppo valuta le proposte: un segnale è debole o forte *rispetto a qualcosa*, e quel giudizio resta umano.
+**4 · Analisi AI delle correlazioni** (30 min): L'AI elabora il corpus per identificare correlazioni non ovvie tra segnali di domini diversi. La raccolta resta umana perché i modelli tendono a restituire i segnali già frequenti, cioè il contrario di un segnale debole. Il gruppo valuta le proposte: un segnale è debole o forte *rispetto a qualcosa*, e quel giudizio resta umano.
 
 **5 · Consolidamento** (15 min): La mappa viene chiusa: 15–20 segnali classificati, con implicazioni di primo e secondo livello.
 
@@ -53,4 +54,4 @@ Il Circolo di Sintesi. La composizione conta più del numero: servono **competen
 
 ## Output e destinazione
 
-**Weak Signals Map** condivisa con 15–20 segnali classificati e le loro implicazioni. Entra direttamente nel [Worldbuilding Collaborativo](/workshops/worldbuilding-collaborativo) come materia prima degli scenari e viene archiviata nella **Scenario Memory** della [Memory Architecture](/bos/memory-architecture).
+**Weak Signals Map** condivisa con 15–20 segnali classificati, ciascuno con fonte e dominio, e le loro implicazioni. Entra direttamente nel [Worldbuilding Collaborativo](/workshops/worldbuilding-collaborativo) come materia prima degli scenari e viene archiviata nella **Scenario Memory** della [Memory Architecture](/bos/memory-architecture).

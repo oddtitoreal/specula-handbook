@@ -3,7 +3,7 @@ title: "Il Metodo e il BOS"
 description: "Come le sei fasi del metodo Specula, attraverso dieci workshop, costruiscono i sette layer del Brand Operating System. La mappatura canonica."
 ---
 
-Chi arriva a Specula dai repository GitHub incontra un metodo in **sei fasi**. Chi arriva da questo manuale incontra un'architettura in **sette layer**. Chi partecipa a un percorso incontra una sequenza di **workshop**. Sono tre descrizioni dello stesso lavoro: il processo, il suo prodotto e il modo in cui si svolge in aula.
+Chi arriva a Specula dai repository GitHub incontra un metodo in **sei fasi** (`specula-method` 2.0, la stessa numerazione degli schemi di `specula-framework`). Chi arriva da questo manuale incontra un'architettura in **sette layer**. Chi partecipa a un percorso incontra una sequenza di **workshop**. Sono tre descrizioni dello stesso lavoro: il processo, il suo prodotto e il modo in cui si svolge in aula.
 
 **Il metodo (le fasi) è come si lavora. Il BOS (i layer) è cosa si costruisce. I workshop sono dove succede.** Le fasi si attraversano e finiscono; i layer restano e vivono. Un ingaggio Specula percorre le sei fasi una volta, e alla fine l'organizzazione possiede un sistema a sette layer che continua a operare.
 
@@ -11,16 +11,18 @@ Chi arriva a Specula dai repository GitHub incontra un metodo in **sei fasi**. C
 
 | Fase del metodo (`specula-method`) | Workshop | Durata | Cosa produce | Layer del BOS |
 |---|---|---|---|---|
-| **0 · Soglia d'ingresso** | [Brief sotto stress](/workshops/brief-sotto-stress) | 90 min | Brief rimodulato, condizioni della soglia verificate | Precede il BOS |
-| **1 · Scenario Generation** | [Mappa Segnali Deboli](/workshops/mappa-segnali-deboli) · [Worldbuilding Collaborativo](/workshops/worldbuilding-collaborativo) | 3 h + 4 h | Weak Signals Map, tre scenari divergenti | **01 · WORLD** e **02 · FUTURES** |
+| **0 · Soglia d'ingresso** | [Brief sotto stress](/workshops/brief-sotto-stress) | 90 min | Brief rimodulato, scheda di soglia, consenso scritto su domanda, finestra e regole | Precede il BOS |
+| **1 · Scenario Generation** | [Mappa Segnali Deboli](/workshops/mappa-segnali-deboli) · [Worldbuilding Collaborativo](/workshops/worldbuilding-collaborativo) | 3 h + 4 h | Weak Signals Map, quattro scenari divergenti costruiti con una regola | **01 · WORLD** e **02 · FUTURES** |
 | **1.5 · Competitive Futures Mapping** | Dentro il [Worldbuilding Collaborativo](/workshops/worldbuilding-collaborativo) | | I *white spaces*: futuri che nessun competitor presidia | Affina **02 · FUTURES** |
-| **2 · Brand Archeology** | [Archeologia del Brand](/workshops/archeologia-brand) | 3 h + 1 h AI | Speculative Brand DNA | **03 · IDENTITY** |
+| **2 · Brand Archeology & Value Stress Test** | [Archeologia del Brand](/workshops/archeologia-brand) | 3 h + 1 h AI | Speculative Brand DNA, giudicato da chi non ha costruito gli scenari | **03 · IDENTITY** |
 | **3 · Future Prototyping & Ethical Gate** | [Confrontation: il Brand nei Futuri](/workshops/confrontation-brand-nei-futuri) | 4 h | Prototipi validati, prime voci del Refusal Register | **04 · EXPLORATION** |
-| **4 · Narrative Synthesis** | [Dal Prototipo al Protocollo](/workshops/dal-prototipo-al-protocollo) | 3 h | Tesi narrativa, criteri decisionali, Protocollo Strategico | **05 · STRATEGY** |
+| **4 · Narrative Synthesis & Strategic Protocol** | [Dal Prototipo al Protocollo](/workshops/dal-prototipo-al-protocollo) | 4 h | Futuro preferibile e backcasting, tesi narrativa, criteri come ipotesi, Decision Log | **05 · STRATEGY** |
 | **5 · Co-creation & Community Governance** | [Calibrazione del Radar](/workshops/calibrazione-radar) · [Matrice Comportamentale](/workshops/matrice-comportamentale) | 2 h + 3 h | Brand Radar e Guardian Loop configurati, matrice comportamentale firmata, Brand Governance Playbook | **06 · GOVERNANCE** |
 | **6 · Activation & Specula Guardian** | [Onboarding dell'Agent](/workshops/onboarding-agent) | 2 h | Roadmap di attivazione, Specula Agent operativo | **07 · INTERFACE** |
 
-Totale workshop del [Full Journey](/engagement/full-journey): circa 25 ore distribuite su 2–3 mesi.
+Totale workshop del [Full Journey](/engagement/full-journey): circa 27 ore distribuite su 2–3 mesi, più la preparazione del corpus dell'Archeologia. Cosa si comprime rispetto a un esercizio di futuro completo è dichiarato nella pagina del [Full Journey](/engagement/full-journey).
+
+L'ordine delle fasi porta la tesi centrale del metodo: gli scenari vengono prima dei valori perché sono il banco di prova da cui il DNA viene ricavato. La versione 1.1 di `specula-method` aveva anticipato il DNA prima degli scenari; la 2.0 è tornata a questa sequenza.
 
 ## Ordine dei workshop e ordine delle fasi
 

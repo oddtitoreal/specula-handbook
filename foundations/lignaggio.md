@@ -16,7 +16,7 @@ La radice diretta è il **design speculativo e critico** di Anthony Dunne e Fion
 
 Il design speculativo non è isolato: è un ramo di una famiglia più ampia, quella che raccoglie le pratiche che usano il progetto per esplorare i futuri.
 
-Gli **experiential futures** di Stuart Candy e Jake Dunagan portano lo scenario fuori dal documento e dentro l'esperienza: un futuro non si descrive, si fa attraversare. È la logica dei tre scenari resi come vita quotidiana nel worldbuilding di Specula.
+Gli **experiential futures** di Stuart Candy e Jake Dunagan portano lo scenario fuori dal documento e dentro l'esperienza: un futuro non si descrive, si fa attraversare. È la logica dei quattro scenari resi come vita quotidiana nel worldbuilding di Specula.
 
 Il **design fiction** del Near Future Laboratory (Julian Bleecker) costruisce artefatti — oggetti, interfacce, frammenti di quotidianità — che rendono tangibile l'intangibile: *making the intangible tangible*. È la stessa mossa dei prototipi discorsivi della Confrontation.
 

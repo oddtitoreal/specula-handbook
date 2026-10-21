@@ -2,7 +2,7 @@
 title: "04 · Exploration"
 description: "Layer 04 · EXPLORATION: prototipare il brand negli scenari e passarlo all'Ethical Gate."
 ---
-Il brand viene collocato dentro i futuri. Concretamente: cosa diventerebbe il brand in ciascuno dei tre scenari costruiti nel Layer 02? Come comunica, come si comporta, cosa rifiuta, cosa abbraccia?
+Il brand viene collocato dentro i futuri. Concretamente: cosa diventerebbe il brand in ciascuno dei quattro scenari costruiti nel Layer 02? Come comunica, come si comporta, cosa rifiuta, cosa abbraccia?
 
 La risposta non viene data in astratto ma costruita in forma di prototipi discorsivi: artefatti speculativi, storyboard di servizio, scenari di interazione. Non si tratta di design definitivo: si tratta di rendere tangibile qualcosa che altrimenti resterebbe ipotetico.
 

@@ -19,11 +19,11 @@ Una volta per percorso, dopo l'Archeologia. I prototipi non sono deliverable: so
 
 ## Partecipanti e ruoli
 
-Il Circolo di Sintesi diviso nei **tre team di scenario** del worldbuilding. Il Brand Alchemist presidia l'Ethical Gate e ne verbalizza le decisioni.
+Il Circolo di Sintesi diviso nei **quattro team di scenario** del worldbuilding. Il Brand Alchemist presidia l'Ethical Gate e ne verbalizza le decisioni.
 
 ## Preparazione
 
-- I tre scenari completi e lo Speculative Brand DNA, accessibili a tutti i team.
+- I quattro scenari completi e lo Speculative Brand DNA, accessibili a tutti i team.
 - Le tre domande dell'Ethical Gate, stampate o proiettate: devono essere fisicamente presenti nella stanza.
 - Il formato del Refusal Register pronto a ricevere le prime voci (forma rifiutata, motivo, contesto, data).
 
@@ -44,7 +44,7 @@ Il Circolo di Sintesi diviso nei **tre team di scenario** del worldbuilding. Il 
 
 **3 · Validazione e registrazione** (45 min): I prototipi che passano entrano nel portfolio validato. Quelli scartati vengono registrati nel [Refusal Register](/governance/refusal-register) con la motivazione valoriale del rifiuto: sono il risultato più prezioso della giornata, non lo scarto.
 
-**4 · Lettura trasversale** (15 min): Il gruppo osserva il portfolio: cosa resta riconoscibile del brand attraverso i tre mondi? Quel residuo è l'identità.
+**4 · Lettura trasversale** (15 min): Il gruppo osserva il portfolio: cosa resta riconoscibile del brand attraverso i quattro mondi? Quel residuo è l'identità.
 
 ## Criteri di riuscita
 
