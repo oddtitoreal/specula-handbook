@@ -16,4 +16,6 @@ DNA da costruire, non da scavare.
 
 ## La differenza con il Full Journey
 
-Nel Full Journey, il Layer 03 · IDENTITY scava un DNA esistente. Qui non c'è stratificazione da rimuovere: il DNA viene costruito per tensione con i futuri invece che per riconoscimento del passato. Il Value Stress Test funziona lo stesso: si testano i valori che i fondatori dichiarano nei tre scenari, e si distingue subito cosa regge da cosa è aspirazione.
+Nel Full Journey, il Layer 03 · IDENTITY scava un DNA esistente. Qui non c'è stratificazione da rimuovere: il DNA viene costruito per tensione con i futuri invece che per riconoscimento del passato. Il Value Stress Test funziona lo stesso: si testano i valori che i fondatori dichiarano nei quattro scenari, e si distingue subito cosa regge da cosa è aspirazione.
+
+Anche qui il metodo lavora per sottrazione, tra identità possibili: i fondatori dichiarano più valori di quanti l'organizzazione potrà sostenere, e il test toglie quelli che reggono solo come aspirazione (→ [La tesi sottrattiva](/foundations/subtractive-thesis)).

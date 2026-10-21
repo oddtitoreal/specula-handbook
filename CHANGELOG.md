@@ -7,7 +7,40 @@ Il versioning usa il formato `YYYY.MM`.
 
 ---
 
-## [Non rilasciato]
+## [2026.11] · da rilasciare
+
+### Revisione metodologica · 2026-10-21
+
+Allinea il manuale a `specula-method` 2.0, `specula-bos` 2.2, `specula-framework` 1.3 e `specula-skill` 0.3.
+
+**Aggiunto**
+- `governance/decision-log.md`: Decision Log, revisione dei criteri, classificazione delle derive, procedimento di calcolo di Brand Coherence Index e Learning Velocity. In navigazione (`docs.json`) e in `INDICE.md`
+- `engagement/full-journey.md`: sezione "Tempi e compressione"
+- `foundations/subtractive-thesis.md`: sezione "L'ambito della tesi"
+- `foundations/threshold-conditions.md`: evidenza da registrare per ogni condizione e sezione "La scheda di soglia"
+- `bos/circolo-di-sintesi.md`: funzioni, regole di voto e regole per il disaccordo sui valori, con il Governance Charter di `specula-framework` come fonte canonica
+- `glossario.md`: Backcasting, Classificazione delle derive, Decision Log, Futuri generici, Futuro preferibile, Scheda di soglia
+
+**Modificato**
+- `workshops/worldbuilding-collaborativo.md`: quattro scenari con regola di costruzione (futuri generici, megatrend chiusi, uno scenario contro il valore più forte, uno inverosimile alla prima lettura, orizzonte a 10–15 anni), quattro team con partecipanti esterni, white spaces etichettati come trend o controtrend
+- `workshops/archeologia-brand.md`: corpus da documenti, interviste strategiche, futuri ufficiali, controesempi, misura del cambiamento; Value Stress Test sulla forma operativa, giudicato da chi non ha costruito gli scenari, con Causal Layered Analysis come secondo metodo
+- `workshops/brief-sotto-stress.md`: incontri preliminari con scheda di soglia, esercizio d'apertura e regole di parola; chiusura con consenso scritto su domanda di ricerca, finestra temporale e regole di lavoro
+- `workshops/mappa-segnali-deboli.md`: griglia dichiarata con la domanda di ricerca al centro; raccolta umana, AI sulle correlazioni
+- `workshops/dal-prototipo-al-protocollo.md` (ora 4 ore): futuro preferibile e backcasting prima del protocollo; criteri come ipotesi con effetto atteso e data di revisione
+- `workshops/calibrazione-radar.md`: soglie che pendono verso la riapertura, combinazioni di indicatori, tempi di escalation legati alla velocità dei segnali, classificazione delle derive
+- `workshops/audit-memoria.md`, `workshops/confrontation-brand-nei-futuri.md`, `workshops/overview.md`: allineati a quattro scenari, Decision Log e nuove durate
+- `bos/02_futures.md`, `bos/03_identity.md`, `bos/05_strategy.md`, `bos/06_governance.md`, `bos/memory-architecture.md`: allineati ai workshop
+- `foundations/metodo-e-bos.md`: tabella su `specula-method` 2.0, durate aggiornate (circa 27 ore), nota sull'ordine delle fasi
+- `bos/04_exploration.md`, `foundations/lignaggio.md`: quattro scenari
+- `foundations/four-stages.md`, `engagement/brand-nuovo.md`, `engagement/guardian-loop.md`, `governance/definition-of-done.md`, `governance/brand-governance-playbook.md`: quattro scenari, sottrazione tra identità possibili in Brand Nuovo, Guardian come revisione esterna che presuppone l'autonomia, classificazione delle derive
+- `ecosistema.md`, `risorse.md`: versioni di riferimento e versione del manuale
+
+**Corretto**
+- `governance/definition-of-done.md`: il link al modello Guardian puntava a un percorso dell'archivio
+- `bos/05_strategy.md`: refuso
+
+**Note**
+- Il Workshop Kit su FigJam va aggiornato su questa versione: regola di costruzione nel WS2, giudice esterno e forma operativa nel WS3, consenso scritto nel WS0, futuro preferibile e criteri come ipotesi nel WS5
 
 ### Workshop pilota Carta di Allineamento e porta specula.design · 2026-09-26
 

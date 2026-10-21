@@ -28,7 +28,7 @@ Brief sotto stress (90 min)
 ↓
 04 · EXPLORATION: Confrontation: Il Brand nei Futuri (4 ore)
 ↓
-05 · STRATEGY: Dal Prototipo al Protocollo (3 ore)
+05 · STRATEGY: Dal Prototipo al Protocollo (4 ore)
 ↓
 06 · GOVERNANCE: Calibrazione del Radar (2 ore)
 ↓
@@ -37,7 +37,17 @@ Brief sotto stress (90 min)
 Matrice Comportamentale (3 ore) → Brand Governance Playbook
 ```
 
-Durata totale workshop: ~25 ore distribuite su 2–3 mesi.
+Durata totale workshop: ~27 ore distribuite su 2–3 mesi, più la preparazione del corpus per l'Archeologia del Brand.
+
+## Tempi e compressione
+
+Un esercizio di futuro completo, in un'organizzazione grande, può durare fino a sei mesi. Il Full Journey ne comprime tre parti:
+
+- gli incontri preliminari, in una sessione di Brief sotto stress più la scheda di soglia;
+- la raccolta dei segnali, in un lavoro preparatorio strutturato più una sessione di tre ore;
+- la costruzione degli scenari, in un workshop di quattro ore su tracce predisposte dal facilitatore.
+
+Il costo è una documentazione meno profonda e scenari con meno dettaglio interno. La regola di costruzione degli scenari e il giudice esterno del Value Stress Test servono anche a compensare questo costo. Nei percorsi pilota si registra il tempo speso per fase, così la compressione si può misurare.
 
 → [Definition of Done](/governance/definition-of-done)
 

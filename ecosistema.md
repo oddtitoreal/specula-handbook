@@ -26,14 +26,14 @@ In una frase: il **method** è come si lavora, il **BOS** è cosa si costruisce,
 
 ## Versioni documentate
 
-Questo manuale (versione **2026.06**) documenta:
+Questo manuale (versione **2026.11**) documenta:
 
 | Repo | Versione di riferimento |
 |---|---|
-| `specula-method` | v1.0 |
-| `specula-framework` | v1.2.x |
-| `specula-skill` | v0.1.x |
-| `specula-bos` | v2.0 |
+| `specula-method` | v2.0 |
+| `specula-framework` | v1.3.x |
+| `specula-skill` | v0.3.x |
+| `specula-bos` | v2.2 |
 
 L'allineamento tra i repo è governato da `VERSIONS.md` e `ALIGNMENT.md` in `specula-framework`. Quando una versione di riferimento cambia, questo manuale lo registra nel [CHANGELOG](https://github.com/oddtitoreal/specula-handbook/blob/main/CHANGELOG.md).
 

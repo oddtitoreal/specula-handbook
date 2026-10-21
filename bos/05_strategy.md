@@ -10,11 +10,13 @@ Il Layer 05 non produce una roadmap triennale. Produce un insieme di principi de
 
 ## Dalla tesi narrativa al protocollo
 
-Il processo ha tre livelli:
+Prima del protocollo si progetta il **futuro preferibile**: la direzione verso cui il brand lavorerà, costruita dopo l'esplorazione come progetto a sé. Gli scenari descrivono ciò che potrebbe accadere; il futuro preferibile dichiara ciò che il brand sceglie di perseguire. Il **backcasting** lo collega all'oggi: per ogni scenario si individuano i passi che reggono in quel mondo.
+
+Poi il processo ha tre livelli:
 
 **Tesi narrativa**: in una frase, cosa ha scelto di essere questo brand? Non lo slogan: la direzione. La frase che, letta tra dieci anni, dovrebbe ancora sembrare vera.
 
-**Criteri decisionali**: le regole che il brand applica quando deve scegliere. Formulati in forma di tensione gestita: "Quando X e Y sono in conflitto, privillegiamo X perché...". I criteri rivelano i valori in azione meglio di qualsiasi dichiarazione.
+**Criteri decisionali**: le regole che il brand applica quando deve scegliere. Formulati in forma di tensione gestita: "Quando X e Y sono in conflitto, privilegiamo X perché...". I criteri rivelano i valori in azione meglio di qualsiasi dichiarazione. I valori restano fermi; i criteri sono ipotesi. Ognuno porta un effetto atteso e una data di revisione, e le decisioni che lo applicano entrano nel [Decision Log](/governance/decision-log).
 
 **Experiment Roadmap**: 30/60/90 giorni di azioni concrete per testare il protocollo nella realtà operativa. Non è l'esecuzione del BOS: è la calibrazione del protocollo. Si osserva cosa funziona, cosa va aggiustato, cosa rivela nuove tensioni da deliberare.
 
@@ -22,11 +24,12 @@ Il processo ha tre livelli:
 
 | Output | Descrizione |
 |---|---|
-| **Protocollo Strategico** | Criteri decisionali articolati: il documento operativo centrale del BOS |
+| **Futuro preferibile e backcasting** | La direzione scelta e i passi che la collegano all'oggi in ciascuno scenario |
+| **Protocollo Strategico** | Criteri decisionali articolati, con effetto atteso e data di revisione: il documento operativo centrale del BOS |
 | **Tesi narrativa** | La direzione in una frase: non per la comunicazione esterna, per il Circolo |
 | **Experiment Roadmap 30/60/90** | Azioni concrete per testare e calibrare il protocollo |
 
-→ **Workshop:** [Dal Prototipo al Protocollo](/workshops/dal-prototipo-al-protocollo): 3 ore
+→ **Workshop:** [Dal Prototipo al Protocollo](/workshops/dal-prototipo-al-protocollo): 4 ore
 
 ---
 

@@ -17,10 +17,10 @@ I valori radicali del brand, emersi dall'Archeologia (Layer 03 · IDENTITY). Dis
 La traduzione operativa del DNA etico: cosa è Ammesso, cosa è Sensibile (richiede review del Circolo), cosa è Vietato. Firmata dal Circolo di Sintesi come documento di governance. Si aggiorna annualmente.
 
 **3. Flusso decisionale**
-Come si prendono le decisioni che toccano l'identità del brand. Chi delibera, con quale processo, in quanto tempo. Distingue decisioni operative (no deliberazione), decisioni tattiche (Brand Alchemist), decisioni strategiche (Circolo pieno).
+Come si prendono le decisioni che toccano l'identità del brand. Chi delibera, con quale processo, in quanto tempo. Distingue decisioni operative (no deliberazione), decisioni tattiche (Brand Alchemist), decisioni strategiche (Circolo pieno). Ogni decisione rilevante entra nel [Decision Log](/governance/decision-log) con il criterio applicato, l'effetto atteso e la data di revisione.
 
 **4. Trigger di escalation umana**
-Le condizioni specifiche in cui una decisione non può essere delegata né a un processo automatico né a una singola funzione. Ogni trigger è collegato a un valore radicale.
+Le condizioni specifiche in cui una decisione non può essere delegata né a un processo automatico né a una singola funzione. Ogni trigger è collegato a un valore radicale. Comprende le allerte su combinazioni di indicatori e la classificazione delle derive (errore, modello superato, apprendimento).
 
 **5. Refusal Register**
 Il tracciato dei rifiuti: tutto ciò che il brand ha scelto deliberatamente di non diventare, con motivazione valoriale e contesto. Documento vivo: si aggiorna ogni volta che l'Ethical Gate scarta un prototipo o il Circolo delibera un rifiuto.
