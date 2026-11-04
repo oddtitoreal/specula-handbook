@@ -42,6 +42,17 @@ Allinea il manuale a `specula-method` 2.0, `specula-bos` 2.2, `specula-framework
 **Note**
 - Il Workshop Kit su FigJam va aggiornato su questa versione: regola di costruzione nel WS2, giudice esterno e forma operativa nel WS3, consenso scritto nel WS0, futuro preferibile e criteri come ipotesi nel WS5
 
+### Correzioni editoriali dalla lettura di Roberto Poli · 2026-11-04
+
+**Aggiunto**
+- `bibliografia.md`: nuova pagina nel gruppo Risorse, con i riferimenti completi degli autori citati nelle note del libro
+- `introduction.md`: l'epigrafe esplicita la fonte della frase sul cambiamento (Maslow, *Toward a Psychology of Being*, 1968)
+
+**Modificato**
+- `index.mdx`, `introduction.md`, `risorse.md`, `README.md`: il libro è dichiarato come manoscritto completo in valutazione editoriale, non ancora pubblicato
+- `foundations/subtractive-thesis.md`: il rimando al libro indica il Prologo e il capitolo 2, dove la tesi compare, e il capitolo 12 per la sua condizione
+- `docs.json`: `bibliografia` in navigazione
+
 ### Workshop pilota Carta di Allineamento e porta specula.design · 2026-09-26
 
 **Aggiunto**

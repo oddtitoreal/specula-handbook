@@ -65,4 +65,4 @@ Versioning basato sulla data: `YYYY.MM`. Versione corrente: **2026.06**. Le modi
 ## Licenza
 
 [CC BY-NC-SA 4.0](LICENSE.md), © Marco Livi / Specula Future Crafting.
-Il libro *Fantasticare il futuro* è il mito fondativo del metodo; questo manuale è il filtro operativo.
+Il libro *Fantasticare il futuro* è il mito fondativo del metodo; questo manuale è il filtro operativo. Il manoscritto è completo ed è in valutazione editoriale.

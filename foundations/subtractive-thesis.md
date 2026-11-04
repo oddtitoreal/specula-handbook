@@ -2,7 +2,7 @@
 title: "La tesi sottrattiva"
 description: "La tesi sottrattiva: i problemi di identità raramente sono assenze. Si toglie ciò che copre, non si aggiunge ciò che manca."
 ---
-> *→ Il "perché" di questa tesi è nel libro: Parte Prima, capitolo 1.*
+> *→ Il "perché" di questa tesi è nel libro: Prologo e capitolo 2. La sua condizione è nel capitolo 12.*
 
 ---
 

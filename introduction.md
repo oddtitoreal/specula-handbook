@@ -4,7 +4,7 @@ description: "Cos'è Specula, da dove nasce il nome, a chi serve, cosa produce e
 ---
 
 > *"Il cambiamento vero non aggiunge qualcosa che manca. Rimuove quello che copre ciò che era già lì."*
-> *Fantasticare il futuro*
+> *Fantasticare il futuro*, Prologo. Nel capitolo 2 la frase rimanda ad Abraham Maslow, *Toward a Psychology of Being* (1968).
 
 Specula è un metodo per portare un'organizzazione attraverso un cambiamento identitario: non aggiungendo quello che sembra mancare, ma rimuovendo quello che si è accumulato sopra ciò che esiste già.
 
@@ -51,7 +51,7 @@ Se stai **adottando Specula come practitioner**, parti dall'[Overview del BOS](/
 Se stai **studiando il metodo**, ogni sezione è autonoma: entra da qualsiasi punto, i rimandi incrociati ti guideranno al materiale collegato.
 
 <Note>
-  Questo manuale è la controparte operativa del libro *Fantasticare il futuro*. Il libro racconta perché questo tipo di cambiamento identitario è necessario e come si manifesta nella vita reale delle organizzazioni: è il mito fondativo del metodo, la narrazione, le storie, il quadro filosofico. Il manuale espone strumenti, sequenze e output attesi. I due oggetti si leggono in direzioni diverse: il libro per capire, il manuale per fare.
+  Questo manuale è la controparte operativa del libro *Fantasticare il futuro*. Il libro racconta perché questo tipo di cambiamento identitario è necessario e come si manifesta nella vita reale delle organizzazioni: è il mito fondativo del metodo, la narrazione, le storie, il quadro filosofico. Il manuale espone strumenti, sequenze e output attesi. I due oggetti si leggono in direzioni diverse: il libro per capire, il manuale per fare. Il manoscritto del libro è completo ed è in valutazione editoriale: le citazioni di questo manuale si riferiscono al manoscritto.
 </Note>
 
 <CardGroup cols={2}>

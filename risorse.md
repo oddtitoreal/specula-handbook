@@ -16,7 +16,7 @@ Il nome dello studio ha una doppia radice deliberata: speculativo (il design com
 
 Ha insegnato User Interface Design al Corso Executive di POLI.design (Politecnico di Milano), è design mentor su ADPList (Top 100 Mentor 2025) ed è stato speaker al We Make Future. Scrive di identità speculativa su [Medium](https://medium.com/@marco.livi). È stato un workshop sul design speculativo, e un libro consigliato in quella sede, a mettere la prima pietra del metodo Specula.
 
-*Fantasticare il futuro* è il suo primo libro. Gli amici lo chiamano Tito.
+*Fantasticare il futuro* è il suo primo libro, oggi in valutazione editoriale. Gli amici lo chiamano Tito.
 
 ---
 
@@ -25,6 +25,8 @@ Ha insegnato User Interface Design al Corso Executive di POLI.design (Politecnic
 *Fantasticare il futuro* di Marco Livi è il mito fondativo del metodo. Racconta perché il cambiamento identitario è necessario e come si manifesta nella vita reale delle organizzazioni. Questo manuale è il filtro: prende quello che il libro fonda e lo traduce in strumenti, sequenze, output verificabili.
 
 I due oggetti si leggono in direzioni diverse: il libro si legge per capire, il manuale si usa per fare.
+
+Il manoscritto è completo ed è in valutazione editoriale, quindi il libro non è ancora pubblicato. Le citazioni del manuale si riferiscono al manoscritto. Gli autori che il libro e il manuale richiamano sono raccolti nella [Bibliografia](/bibliografia).
 
 ---
 
